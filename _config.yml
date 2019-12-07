@@ -1,0 +1,42 @@
+# Site
+name: "Hassan and Associates"
+description: "A Blog site for income tax, company law and business services"
+meta_description: " A Blog site for income tax, company law and business services."
+logo: 'assets/images/001.png'
+favicon: 'https://blog.hassanandassociates.biz/assets/images/logo.png'
+baseurl: 
+google_analytics: 'UA-66934702-20'
+disqus: 'hassanandassociates'
+mailchimp-list: 'https://hassanandassociates.us17.list-manage.com/subscribe/post?u=6a6b36ec67a083ef90b0364cd&id=7ef9f5c6ed'
+
+# Authors
+authors:
+  SHA:
+    name: SHA
+    display_name: SHA
+    gravatar: fbd2c09bdf675f159860948be374de71
+    email: upodesta@gmail.com
+    web: https://taxadvisor.com.bd
+    twitter: https://twitter.com/hasanassociates
+    description: 
+  
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+highlighter: rouge
