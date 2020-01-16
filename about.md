@@ -14,11 +14,13 @@ Here are the points where you can get in touch or find us @
 
 - [Official Site](https://hassanandassociates.biz)
 
-- [Mirror Site](https://hassanandassociates.ml)
+- [Blog 'Notes' Site](https://notes.hassanandassociates.biz)
+
+- [Blog 'Diary' Site](https://diary.hassanandassociates.biz)
+
+- [Blogger Site](https://blogger.hassanandassociates.biz)
 
 - [Business Site](http://hassanandassociates.business.site)
-
-- [Blog](https://blogger.hassanandassociates.biz)
 
 - [Internal Site](https://sites.google.com/site/taxadvisorbd)
 

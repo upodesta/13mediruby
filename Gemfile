@@ -17,6 +17,9 @@ group :jekyll_plugins do
     gem 'jekyll-paginate'
 	gem 'github-pages'
 end
+
+gem 'rails'
+
 gem "rspec", "~> 3.8"
 
 gem "rake", "~> 13.0"
