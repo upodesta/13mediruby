@@ -20,8 +20,10 @@ Here are the points where you can get in touch or find us @
 
 - [Blogger Site](https://blogger.hassanandassociates.biz)
 
+- [Blog 'Wordpress' Site](https://hassanandassociates.wordpress.com)
+
 - [Business Site](http://hassanandassociates.business.site)
 
 - [Internal Site](https://sites.google.com/site/taxadvisorbd)
 
-- [Owner's Site](https://taxadvisor.com.bd)
+- [Portfolio Site](https://taxadvisor.com.bd)
