@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "MONEY LAUNDERING for income tax purposes"
+title:  "Money Laundering for income tax purposes"
 author: SHA
 categories: [ company-law, income-tax ]
-image: "https://blog.hassanandassociates.biz/assets/images/36.jpg"
+image: "/assets/images/02.jpg"
 ---
 As the name itself suggests, laundering here refers to converting the dirty /tainted /crime money into clean /untainted / legally earned legitimate money. Money laundering involves certain processes undertaken to conceal the identity or source of illegally gained money.
 

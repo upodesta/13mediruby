@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>A Blog site for income tax, company law and business services</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Jan 2020 04:02:32 +0600</pubDate>
-    <lastBuildDate>Fri, 17 Jan 2020 04:02:32 +0600</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 21 Jan 2020 17:45:12 +0600</pubDate>
+    <lastBuildDate>Tue, 21 Jan 2020 17:45:12 +0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -53,8 +53,8 @@ Ironically enough, the rationale for having an arbitration clause in the first p
 
 </description>
         <pubDate>Thu, 19 Sep 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/income-tax/2019/09/19/what-is-arbitration.html</link>
-        <guid isPermaLink="true">/company-law/income-tax/2019/09/19/what-is-arbitration.html</guid>
+        <link>http://localhost:4000/company-law/income-tax/2019/09/19/what-is-arbitration.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/income-tax/2019/09/19/what-is-arbitration.html</guid>
         
         
         <category>company-law</category>
@@ -151,8 +151,8 @@ support the development initiatives of the government. On the other hand, NBR to
 Since the issuance of CSR directive by BB and SRO on after tax incentive from NBR, the involvement of banks in CSR activities has augmented in many folded aspects.   Banks’   rapidly   increasing   participation   in   CSR   activities   with incorporation   of   socially   and   environmentally   accountable   organizational objectives,   strategies   and  operations   that  are  swiftly   turning   into   global standards   in   “socially   responsible   competition”   towards   rearing   inclusive economic and social growth and facilitate the nation to go forward with desired growth and efficient allocation of resources. Surely the collaborative effort by the concerned government bodies will further increase the CSR activities by banks which will support sustainable development drive of the Bangladesh.&lt;/p&gt;
 </description>
         <pubDate>Thu, 22 Aug 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/income-tax/2019/08/22/policy-support-to-corporate-social-responsibilty.html</link>
-        <guid isPermaLink="true">/company-law/income-tax/2019/08/22/policy-support-to-corporate-social-responsibilty.html</guid>
+        <link>http://localhost:4000/company-law/income-tax/2019/08/22/policy-support-to-corporate-social-responsibilty.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/income-tax/2019/08/22/policy-support-to-corporate-social-responsibilty.html</guid>
         
         
         <category>company-law</category>
@@ -242,8 +242,8 @@ Since the issuance of CSR directive by BB and SRO on after tax incentive from NB
 &lt;p&gt;Where the rights of a proprietor of a registered trademark has infringed, s/he can initiate civil proceeding or criminal proceeding for remedy. Any suit regarding the infringement of trademark, or to establish the right or any ratified right respecting trademark shall be instituted in the Court of District Judge within whose jurisdiction the infringement occurred. A criminal proceeding has to be instituted in the Court of Metropolitan Magistrate or any other 1st class Judicial Magistrate. Remedy in a suit for infringement may be availed in the form of injunction, damages, an accounts of profit, destruction or erasure of falsifying trademark, delivery up the goods marked with false trademark.&lt;/p&gt;
 </description>
         <pubDate>Thu, 13 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/2019/06/13/trademark-registration-in-bangladesh.html</link>
-        <guid isPermaLink="true">/company-law/2019/06/13/trademark-registration-in-bangladesh.html</guid>
+        <link>http://localhost:4000/company-law/2019/06/13/trademark-registration-in-bangladesh.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/2019/06/13/trademark-registration-in-bangladesh.html</guid>
         
         
         <category>company-law</category>
@@ -299,8 +299,8 @@ Since the issuance of CSR directive by BB and SRO on after tax incentive from NB
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 13 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/income-tax/2019/06/13/required-documents-to-open-foreign-company-in-Bangladesh.html</link>
-        <guid isPermaLink="true">/company-law/income-tax/2019/06/13/required-documents-to-open-foreign-company-in-Bangladesh.html</guid>
+        <link>http://localhost:4000/company-law/income-tax/2019/06/13/required-documents-to-open-foreign-company-in-Bangladesh.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/income-tax/2019/06/13/required-documents-to-open-foreign-company-in-Bangladesh.html</guid>
         
         
         <category>company-law</category>
@@ -435,8 +435,8 @@ Since the issuance of CSR directive by BB and SRO on after tax incentive from NB
 &lt;p&gt;Once work permit is issued by BIDA, a copy of the work permit would then sent letter to Ministry of Home Affairs for security clearance by BIDA. After some scrutiny, security clearance will be issued.&lt;/p&gt;
 </description>
         <pubDate>Thu, 13 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/2019/06/13/process-of-issuing-work-permit-in-bangladesh.html</link>
-        <guid isPermaLink="true">/company-law/2019/06/13/process-of-issuing-work-permit-in-bangladesh.html</guid>
+        <link>http://localhost:4000/company-law/2019/06/13/process-of-issuing-work-permit-in-bangladesh.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/2019/06/13/process-of-issuing-work-permit-in-bangladesh.html</guid>
         
         
         <category>company-law</category>
@@ -510,8 +510,8 @@ Since the issuance of CSR directive by BB and SRO on after tax incentive from NB
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 13 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/2019/06/13/process-for-registration-with-bangladesh-investment-development-authority.html</link>
-        <guid isPermaLink="true">/company-law/2019/06/13/process-for-registration-with-bangladesh-investment-development-authority.html</guid>
+        <link>http://localhost:4000/company-law/2019/06/13/process-for-registration-with-bangladesh-investment-development-authority.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/2019/06/13/process-for-registration-with-bangladesh-investment-development-authority.html</guid>
         
         
         <category>company-law</category>
@@ -530,8 +530,8 @@ Since the issuance of CSR directive by BB and SRO on after tax incentive from NB
 
 </description>
         <pubDate>Thu, 13 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/income-tax/2019/06/13/black-money-for-income-tax-purpose-in-bangladesh.html</link>
-        <guid isPermaLink="true">/income-tax/2019/06/13/black-money-for-income-tax-purpose-in-bangladesh.html</guid>
+        <link>http://localhost:4000/income-tax/2019/06/13/black-money-for-income-tax-purpose-in-bangladesh.html</link>
+        <guid isPermaLink="true">http://localhost:4000/income-tax/2019/06/13/black-money-for-income-tax-purpose-in-bangladesh.html</guid>
         
         
         <category>income-tax</category>
@@ -619,8 +619,8 @@ Since the issuance of CSR directive by BB and SRO on after tax incentive from NB
 
 </description>
         <pubDate>Thu, 13 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/income-tax/2019/06/13/bangladesh-tax-policy-and-administration.html</link>
-        <guid isPermaLink="true">/company-law/income-tax/2019/06/13/bangladesh-tax-policy-and-administration.html</guid>
+        <link>http://localhost:4000/company-law/income-tax/2019/06/13/bangladesh-tax-policy-and-administration.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/income-tax/2019/06/13/bangladesh-tax-policy-and-administration.html</guid>
         
         
         <category>company-law</category>
@@ -630,54 +630,82 @@ Since the issuance of CSR directive by BB and SRO on after tax incentive from NB
       </item>
     
       <item>
-        <title>Working with us what you will get ?</title>
-        <description>&lt;p&gt;With our 28 years of experience, we take care almost every possible steps to solve problems on case to case basis promptly. It is appreciated everywhere that there is no failure case in our record history. Each of your issue is a partnership. We start with a conversation about your subject matter, then develop a plan with you. &lt;br /&gt; Working with us following benefits are avialable at your end :&lt;/p&gt;
+        <title>Money Laundering for income tax purposes</title>
+        <description>&lt;p&gt;As the name itself suggests, laundering here refers to converting the dirty /tainted /crime money into clean /untainted / legally earned legitimate money. Money laundering involves certain processes undertaken to conceal the identity or source of illegally gained money.&lt;/p&gt;
+
+&lt;p&gt;The goal of a large number of criminal acts is to generate profits for the individual or a group that carries out the acts. Money laundering is the processing of these criminal proceeds to disguise their illegal origin. Illegal activities, like drug trafficking, smuggling, sale of illegal arms, prostitution, embezzlement, bribery, cyber crimes, insider trading, etc., can produce large profits and create the need to legitimize the ill-gotten gains through money laundering.&lt;/p&gt;
+
+&lt;p&gt;This is done by disguising the source, changing the form, and moving the funds to a place where they are less likely to attract attention. It must be clearly understood that tax evasion is not the prime objective of money laundering. Money laundering is mainly done to disguise the origin of money obtained through illegal activities so as to make it appear as if it was obtained from a legal source.&lt;/p&gt;
+
+&lt;p&gt;Interestingly, in the USA someone possessing a huge amount of cash tried to explain it as having been derived from operating the laundry machines or launderettes installed in buildings. Persons operating these machines have to insert coins to make the machine work. Thus, a large number of coins accumulate in these machines. It is said that the term money laundering was accordingly coined. Convenience stores making retail sales also collect cash; these stores are often used to camouflage the source of inconvenient money.&lt;/p&gt;
+
+&lt;p&gt;Money laundering is a phenomenon prevalent in almost all countries of the world. In 1996, the International Monetary Fund (IMF) estimated that two to five percent of the global economy involved laundered money. Money laundering impacts a nations economy adversely as funds move rapidly across borders to escape the audit trail. Different kinds of methods and legislations have been adopted to deter, prevent and apprehend money launderers. Very severe punishments have been provided for those found to be indulging in this criminal activity.&lt;/p&gt;
+
+&lt;p&gt;The Money Laundering Prevention Act, 2012 also casts an obligation on banking companies, financial institutions and others to both verify and maintain a record of the identity of their clients. Measures have already been undertaken in this direction by way of adoption of the KYC norms by the concerned institutions. Under these norms, any person opening a bank account, or a demat account, subscribing to mutual funds, or taking a mobile phone connection has to establish his identity to the satisfaction of the concerned authorities. He has to furnish proof of identity with a photograph and also proof of residence. Even courier service providers ask for proof of identity before accepting or handing over a parcel. There are strict instructions from the Bangladesh Bank and other regulatory authorities to their subordinate functionaries to enforce the KYC norms strictly. The banks, financial institutions and others have to ensure that the customer is, in fact, the person who he or she claims to be. This is to prevent fraudsters using the name, address and forged signatures of others for doing fraudulent or benami transactions.&lt;/p&gt;
+
+&lt;p&gt;Since income tax evasion is bound to be an integral part of the act of money laundering, such cases may also be referred to the income tax authorities for investigation from the tax evasion angle.&lt;/p&gt;
+
+&lt;p&gt;Money laundering is a grave issue as it is the byproduct of illegal activities and financial frauds, and further abets continuance of such activities and frauds. It needs to be checked and dealt with severely.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Jun 2019 00:00:00 +0600</pubDate>
+        <link>http://localhost:4000/company-law/income-tax/2019/06/12/money-laundering-for-income-tax-purposes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/income-tax/2019/06/12/money-laundering-for-income-tax-purposes.html</guid>
+        
+        
+        <category>company-law</category>
+        
+        <category>income-tax</category>
+        
+      </item>
+    
+      <item>
+        <title>Recommendation for NBR Bangladesh</title>
+        <description>&lt;p&gt;According to my observation, my recommendations for National Borad of Revenue of Bangladesh (NBR) are as follows:&lt;/p&gt;
+
+&lt;h3 id=&quot;for-formal-businesses&quot;&gt;For Formal Businesses&lt;/h3&gt;
+
+&lt;p&gt;The first and most important recommendation would be to improve communications with taxpayers. Businesses want a clearer picture of their legal obligations and the expected procedures, and straightforward answers to their tax-accounting questions. NBR has already undertaken this initiative by holding tax fairs which also allows businesses to obtain TIN on the same day. However, more rigorous steps should be undertaken to disseminate information about all tax procedures among taxpayers and information on their rights and obligations. This can be done through radio/TV (for brief messages about general obligations) as well as simple leaflets (for more detailed information about procedures) and regular seminars to answer questions from business taxpayers. These mass scale campaigns could be done in partnership with mobile communications service providers.&lt;/p&gt;
+
+&lt;p&gt;The next most important recommendation would be capacity development and sufficient manpower. Some NBR officials may need further training in tax accounting as it applies to business. In addition, small businesses currently in the fixed regime would surely benefit from guidance in basic bookkeeping.&lt;/p&gt;
+
+&lt;p&gt;In addition, NBR could also benefit from the following:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Free Advice : We provide free advice on request.&lt;/p&gt;
+    &lt;p&gt;Findings indicated unhappiness amongst the businesses about the differences in tax rates. NBR may review the discriminatory tax rates and harmonize the same with a view to encouraging businesses, especially private LLCs, to report actual profits in the annual return, which in turn is expected to help increase revenue from business income tax. Tax harmonization is likely to encourage businesses, especially the proprietorship firms to register themselves with Registrar of Joint Stock Companies and Firms (RJSC&amp;amp;F).&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Hassele-Free : We provide quick and accurate assessement and hassle-free services.&lt;/p&gt;
+    &lt;p&gt;Work closely with business associations and SME foundation to better understand how SMEs operate and how to best develop a tax regime more suited for them. For small and medium enterprises, perhaps if a presumption of a standard deduction of expenses is used instead of calculating the actual amount of business expenses, bookkeeping may be made easier.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Storage Facility : You may store your service related documents online securely and access them anytime from anywhere.&lt;/p&gt;
+    &lt;p&gt;Develop a methodology for “risk-based inspection” aimed at detecting businesses that are under-declaring large amounts of income (or turnover) based on objective indicators (e.g., sector, number of employees, floor-space, electricity usage, rent, assets, etc.) as well as more standard “risk-based audit” for medium and large businesses&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Data Encryption : We maintain bank-level data encryption and protection.&lt;/p&gt;
+    &lt;p&gt;Provide training targeted to medium businesses especially in terms of awareness of the functioning of the VAT because it is unusual that companies that are eligible for VAT refunds do not submit their claim. In addition, NBR should try to expedite VAT refunds for businesses that have a track record of good compliance.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Documentation Support : We provide reliable online and manual documetaion support.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Download : Unlimited data revisions, PDF print and downloads.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Professional Team : We have a good professional team to achieve our professional goal.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;More Features : To know about other avialable features, Please &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSfpEu18GwtXckk8qpcwxNPhRjHXEoeSP27mc_H-ycduDNzKIA/viewform&quot;&gt;Contact us&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;Another outreach mechanism to facilitate small business compliance could also be the creation of special service centers for MSMEs. A small centre could be integrated into the small taxpayer offices or created as separate centers.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&quot;for-informal-businesses&quot;&gt;For Informal Businesses&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The top priority for NBR for the informal sector should be outreach and education. Given limited resources, it may be most effective to build trust among small businesses before attempting more strenuous “enforcement” among informal micro- businesses.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The NBR in collaboration with the local government office such as municipal/city corporations as well as Union Parishads should embark on an information and outreach campaign to inform micro and small businesses not registered by the NBR but registered at the municipal level of their legal obligations with regard to taxation, how to register and how to comply.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;NBR in collaboration with the local government offices should also inform micro-enterprises of the advantages of tax compliance, including improved reputation of a business, enhanced business opportunities, a broader (and wealthier) base of customers, and freedom from legal fears.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
 </description>
-        <pubDate>Wed, 12 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/income-tax/2019/06/12/working-with-us-what-you-will-get.html</link>
-        <guid isPermaLink="true">/company-law/income-tax/2019/06/12/working-with-us-what-you-will-get.html</guid>
-        
-        
-        <category>company-law</category>
-        
-        <category>income-tax</category>
-        
-      </item>
-    
-      <item>
-        <title>Why Choose Us ?</title>
-        <description>&lt;p&gt;If you’re looking for a firm that will focus on your individual needs and always treat you like a client who matters, look no further. Having 28 years experience our firm is enough to offer a full range of professional and customized services to give you the individual attention that you deserve. We will throughly and conscientiously study your personal situation and tailor our advice to your specific needs. Although we’re a team  for providing our services in Dhaka, Bangladesh but we serve clients across the country and all over the world. We take pride in our commitment to the highest standards of integrity and honesty. We’ll never make false assurances or promises. Your trust is far too important to us.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 12 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/income-tax/2019/06/12/why-choose-us.html</link>
-        <guid isPermaLink="true">/company-law/income-tax/2019/06/12/why-choose-us.html</guid>
+        <pubDate>Tue, 11 Jun 2019 00:00:00 +0600</pubDate>
+        <link>http://localhost:4000/company-law/income-tax/2019/06/11/recommendation-for-nbr-bangladesh.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/income-tax/2019/06/11/recommendation-for-nbr-bangladesh.html</guid>
         
         
         <category>company-law</category>
