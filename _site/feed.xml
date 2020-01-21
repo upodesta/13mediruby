@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>A Blog site for income tax, company law and business services</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Jan 2020 19:12:32 +0600</pubDate>
-    <lastBuildDate>Tue, 21 Jan 2020 19:12:32 +0600</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 22 Jan 2020 03:13:12 +0600</pubDate>
+    <lastBuildDate>Wed, 22 Jan 2020 03:13:12 +0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -53,8 +53,8 @@ Ironically enough, the rationale for having an arbitration clause in the first p
 
 </description>
         <pubDate>Thu, 19 Sep 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/income-tax/2019/09/19/what-is-arbitration.html</link>
-        <guid isPermaLink="true">/company-law/income-tax/2019/09/19/what-is-arbitration.html</guid>
+        <link>http://localhost:4000/company-law/income-tax/2019/09/19/what-is-arbitration.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/income-tax/2019/09/19/what-is-arbitration.html</guid>
         
         
         <category>company-law</category>
@@ -151,8 +151,8 @@ support the development initiatives of the government. On the other hand, NBR to
 Since the issuance of CSR directive by BB and SRO on after tax incentive from NBR, the involvement of banks in CSR activities has augmented in many folded aspects.   Banks’   rapidly   increasing   participation   in   CSR   activities   with incorporation   of   socially   and   environmentally   accountable   organizational objectives,   strategies   and  operations   that  are  swiftly   turning   into   global standards   in   “socially   responsible   competition”   towards   rearing   inclusive economic and social growth and facilitate the nation to go forward with desired growth and efficient allocation of resources. Surely the collaborative effort by the concerned government bodies will further increase the CSR activities by banks which will support sustainable development drive of the Bangladesh.&lt;/p&gt;
 </description>
         <pubDate>Thu, 22 Aug 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/income-tax/2019/08/22/policy-support-to-corporate-social-responsibilty.html</link>
-        <guid isPermaLink="true">/company-law/income-tax/2019/08/22/policy-support-to-corporate-social-responsibilty.html</guid>
+        <link>http://localhost:4000/company-law/income-tax/2019/08/22/policy-support-to-corporate-social-responsibilty.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/income-tax/2019/08/22/policy-support-to-corporate-social-responsibilty.html</guid>
         
         
         <category>company-law</category>
@@ -242,8 +242,8 @@ Since the issuance of CSR directive by BB and SRO on after tax incentive from NB
 &lt;p&gt;Where the rights of a proprietor of a registered trademark has infringed, s/he can initiate civil proceeding or criminal proceeding for remedy. Any suit regarding the infringement of trademark, or to establish the right or any ratified right respecting trademark shall be instituted in the Court of District Judge within whose jurisdiction the infringement occurred. A criminal proceeding has to be instituted in the Court of Metropolitan Magistrate or any other 1st class Judicial Magistrate. Remedy in a suit for infringement may be availed in the form of injunction, damages, an accounts of profit, destruction or erasure of falsifying trademark, delivery up the goods marked with false trademark.&lt;/p&gt;
 </description>
         <pubDate>Thu, 13 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/2019/06/13/trademark-registration-in-bangladesh.html</link>
-        <guid isPermaLink="true">/company-law/2019/06/13/trademark-registration-in-bangladesh.html</guid>
+        <link>http://localhost:4000/company-law/2019/06/13/trademark-registration-in-bangladesh.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/2019/06/13/trademark-registration-in-bangladesh.html</guid>
         
         
         <category>company-law</category>
@@ -299,8 +299,8 @@ Since the issuance of CSR directive by BB and SRO on after tax incentive from NB
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 13 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/income-tax/2019/06/13/required-documents-to-open-foreign-company-in-Bangladesh.html</link>
-        <guid isPermaLink="true">/company-law/income-tax/2019/06/13/required-documents-to-open-foreign-company-in-Bangladesh.html</guid>
+        <link>http://localhost:4000/company-law/income-tax/2019/06/13/required-documents-to-open-foreign-company-in-Bangladesh.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/income-tax/2019/06/13/required-documents-to-open-foreign-company-in-Bangladesh.html</guid>
         
         
         <category>company-law</category>
@@ -435,8 +435,8 @@ Since the issuance of CSR directive by BB and SRO on after tax incentive from NB
 &lt;p&gt;Once work permit is issued by BIDA, a copy of the work permit would then sent letter to Ministry of Home Affairs for security clearance by BIDA. After some scrutiny, security clearance will be issued.&lt;/p&gt;
 </description>
         <pubDate>Thu, 13 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/2019/06/13/process-of-issuing-work-permit-in-bangladesh.html</link>
-        <guid isPermaLink="true">/company-law/2019/06/13/process-of-issuing-work-permit-in-bangladesh.html</guid>
+        <link>http://localhost:4000/company-law/2019/06/13/process-of-issuing-work-permit-in-bangladesh.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/2019/06/13/process-of-issuing-work-permit-in-bangladesh.html</guid>
         
         
         <category>company-law</category>
@@ -510,8 +510,8 @@ Since the issuance of CSR directive by BB and SRO on after tax incentive from NB
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 13 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/2019/06/13/process-for-registration-with-bangladesh-investment-development-authority.html</link>
-        <guid isPermaLink="true">/company-law/2019/06/13/process-for-registration-with-bangladesh-investment-development-authority.html</guid>
+        <link>http://localhost:4000/company-law/2019/06/13/process-for-registration-with-bangladesh-investment-development-authority.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/2019/06/13/process-for-registration-with-bangladesh-investment-development-authority.html</guid>
         
         
         <category>company-law</category>
@@ -530,8 +530,8 @@ Since the issuance of CSR directive by BB and SRO on after tax incentive from NB
 
 </description>
         <pubDate>Thu, 13 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/income-tax/2019/06/13/black-money-for-income-tax-purpose-in-bangladesh.html</link>
-        <guid isPermaLink="true">/income-tax/2019/06/13/black-money-for-income-tax-purpose-in-bangladesh.html</guid>
+        <link>http://localhost:4000/income-tax/2019/06/13/black-money-for-income-tax-purpose-in-bangladesh.html</link>
+        <guid isPermaLink="true">http://localhost:4000/income-tax/2019/06/13/black-money-for-income-tax-purpose-in-bangladesh.html</guid>
         
         
         <category>income-tax</category>
@@ -619,8 +619,8 @@ Since the issuance of CSR directive by BB and SRO on after tax incentive from NB
 
 </description>
         <pubDate>Thu, 13 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/income-tax/2019/06/13/bangladesh-tax-policy-and-administration.html</link>
-        <guid isPermaLink="true">/company-law/income-tax/2019/06/13/bangladesh-tax-policy-and-administration.html</guid>
+        <link>http://localhost:4000/company-law/income-tax/2019/06/13/bangladesh-tax-policy-and-administration.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/income-tax/2019/06/13/bangladesh-tax-policy-and-administration.html</guid>
         
         
         <category>company-law</category>
@@ -648,8 +648,8 @@ Since the issuance of CSR directive by BB and SRO on after tax incentive from NB
 &lt;p&gt;Money laundering is a grave issue as it is the byproduct of illegal activities and financial frauds, and further abets continuance of such activities and frauds. It needs to be checked and dealt with severely.&lt;/p&gt;
 </description>
         <pubDate>Wed, 12 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/income-tax/2019/06/12/money-laundering-for-income-tax-purposes.html</link>
-        <guid isPermaLink="true">/company-law/income-tax/2019/06/12/money-laundering-for-income-tax-purposes.html</guid>
+        <link>http://localhost:4000/company-law/income-tax/2019/06/12/money-laundering-for-income-tax-purposes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/income-tax/2019/06/12/money-laundering-for-income-tax-purposes.html</guid>
         
         
         <category>company-law</category>
@@ -704,8 +704,8 @@ Since the issuance of CSR directive by BB and SRO on after tax incentive from NB
 
 </description>
         <pubDate>Tue, 11 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/income-tax/2019/06/11/recommendation-for-nbr-bangladesh.html</link>
-        <guid isPermaLink="true">/company-law/income-tax/2019/06/11/recommendation-for-nbr-bangladesh.html</guid>
+        <link>http://localhost:4000/company-law/income-tax/2019/06/11/recommendation-for-nbr-bangladesh.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/income-tax/2019/06/11/recommendation-for-nbr-bangladesh.html</guid>
         
         
         <category>company-law</category>
