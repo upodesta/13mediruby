@@ -1,9 +1,9 @@
 ﻿---
 layout: post
-title:  "Study on working hours leave and holidays maternity benefit in Bangladesh"
+title:  "Study on working hours, leave and holidays benefit in Bangladesh"
 author: SHA
 categories: [ company-law ]
-image: "https://blog.hassanandassociates.biz/assets/images/37.jpg"
+image: "/assets/images/36.jpg"
 ---
 
 Labour laws play very crucial role in the industrial relation system. The British law of master and servant is the foundation of labour law. Actually enactment of labour law was the demand of time for the regulation of the labour business in the country. The labour law system is more than a century old in Bangladesh. The first labour law was enacted in the Indian sub-continent during the British period, in 1881. Subsequently, the British Government introduced several laws concerning different labour issues, e.g., working hour, employment of children, maternity benefit, trade union activities, wage, etc. After the separation of the Indian sub-continent in 1947, almost all the laws during the pre-partition period were kept in force with some modifications and amendments, in the form of administrative rules, by the Pakistan Government. After the independence in 1971, the Bangladesh government retained the previous laws through the Bangladesh Laws Order (President's Order No. 48). It also enacted additional laws in response to the changing circumstances and needs of the working class and the country. In 2006, the country adopted the revised Bangladesh Labour Law of 2006.
