@@ -1,8 +1,8 @@
 ﻿---
 layout: post
-title:  "Do You Really Need a Professional Service ?"
+title:  "Study on working hours leave and holidays maternity benefit in Bangladesh"
 author: SHA
-categories: [ company-law, income-tax ]
+categories: [ company-law ]
 image: "https://blog.hassanandassociates.biz/assets/images/37.jpg"
 ---
 
