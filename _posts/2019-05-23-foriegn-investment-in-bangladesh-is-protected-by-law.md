@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Foreign investment in Bangladesh is protected by law"
+title:  "Foreign investment in Bangladesh is protected"
 author: SHA
 categories: [ company-law, income-tax ]
 image: "/assets/images/37.jpg"
