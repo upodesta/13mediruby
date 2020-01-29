@@ -3,7 +3,7 @@ layout: post
 title:  "Recommendation for NBR Bangladesh"
 author: SHA
 categories: [ company-law, income-tax ]
-image: "https://blog.hassanandassociates.biz/assets/images/29.jpg"
+image: "/assets/images/29.jpg"
 ---
 According to my observation, my recommendations for National Borad of Revenue of Bangladesh (NBR) are as follows:
 

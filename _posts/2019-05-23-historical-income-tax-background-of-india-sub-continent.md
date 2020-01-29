@@ -3,7 +3,7 @@ layout: post
 title:  "Historical Income tax Background of India Sub-continent"
 author: SHA
 categories: [ income-tax ]
-image: "https://blog.hassanandassociates.biz/assets/images/07.jpg"
+image: "/assets/images/07.jpg"
 ---
 According to historic records, Income Tax was introduced to the Indian sub continent public in 1860. After a couple of years, it got abolished because people were not satisfied that they had to pay some amount of their incomes. But afterwards, it was reinforced again as the government noticed its importance in terms of the total revenue of the country. James Wilson, the Scotsman who created first Budget in India, introduced the income tax act in 1860. This created a big controversy. Wilson argued since the British provided safe and secure environment to Indians to carry on trade they were justified in charging a fee in the form of an income tax.
 
