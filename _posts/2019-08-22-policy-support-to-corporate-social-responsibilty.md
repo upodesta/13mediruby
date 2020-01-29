@@ -3,9 +3,8 @@ layout: post
 title:  "Policy Support to Corporate Social Responsibilty"
 author: SHA
 categories: [ company-law, income-tax ]
-image: "https://blog.hassanandassociates.biz/assets/images/19.jpg"
-featured: true
-hidden: true
+image: "/assets/images/19.jpg"
+
 ---
 
 Businesses without addressing the needs and expectations of stakeholders in a community cannot remain competitive in the contemporary era. A strategic approach to Corporate Social Responsibility (CSR) can bring benefits in terms of building reputation, brand value, customer relationships, operational risk management,  driving  up efficiency,  access to new markets  and better  human resource management through employee motivation and retention. Responsible business conduct is especially important when private sector operators provide public services. CSR offers a set of values on which a more cohesive society can be built and on which the transition to a sustainable financial and economic system can be based. Enhancing CSR as a means for poverty reduction and sustainable development in a developing country like ours with modest resources requires joint initiatives by all stakeholder  groups  involved:  governmental  bodies,  NGOs,  and corporations,  as  well  as  primary  producers  and  workers.  Only through co- operation of stakeholders at all levels CSR can have a beneficial social and developmental impact.  Moreover, multi-stakeholder initiatives are  an appropriate tool for experience-sharing and the development of best practices for creating a link between corporate insight and the government agenda.
