@@ -3,7 +3,7 @@ layout: post
 title:  "Working with us what you will get ?"
 author: SHA
 categories: [ company-law, income-tax ]
-image: "https://blog.hassanandassociates.biz/assets/images/25.jpg"
+image: "/assets/images/21.jpg"
 ---
 With our 28 years of experience, we take care almost every possible steps to solve problems on case to case basis promptly. It is appreciated everywhere that there is no failure case in our record history. Each of your issue is a partnership. We start with a conversation about your subject matter, then develop a plan with you. <br> Working with us following benefits are avialable at your end :
 
