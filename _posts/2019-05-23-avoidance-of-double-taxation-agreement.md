@@ -3,7 +3,7 @@ layout: post
 title:  "Avoidance of Double Taxation Agreement"
 author: SHA
 categories: [ income-tax ]
-image: "/assets/images/39.jpg"
+image: "/assets/images/31.jpg"
 ---
 
 Avoidance of Double Taxation Agreement: 

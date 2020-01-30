@@ -3,7 +3,7 @@ layout: post
 title: "Bangladesh Tax Policy and Administration"
 author: SHA
 categories: [ company-law, income-tax ]
-image: "/assets/images/31.jpg"
+image: "/assets/images/39.jpg"
 ---
 The National Board of Revenue (NBR) is the central authority for tax administration in Bangladesh. It was established by President Order No. 76 of 1972.  Administratively, it is under the Internal Resources Division (IRD) of the Ministry of Finance (MoF). MoF has 4 Divisions, headed by 4 permanent Secretaries to the Government, namely, the Finance Division the Internal Resources Division (IRD), the Banking Division and the Economic Relations Division (ERD). The Secretary, IRD is the ex-officio Chairman of NBR. NBR is responsible for formulation and continuous re-appraisal of tax-policies and tax-laws, negotiating tax treaties with foreign governments and participating in inter-ministerial deliberations on economic issues having a bearing on fiscal policies and tax administration.
 
