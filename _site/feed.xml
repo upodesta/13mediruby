@@ -5,8 +5,8 @@
     <description>A Blog site for income tax, company law and business services</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Feb 2020 21:16:53 +0600</pubDate>
-    <lastBuildDate>Fri, 07 Feb 2020 21:16:53 +0600</lastBuildDate>
+    <pubDate>Fri, 07 Feb 2020 22:09:02 +0600</pubDate>
+    <lastBuildDate>Fri, 07 Feb 2020 22:09:02 +0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
