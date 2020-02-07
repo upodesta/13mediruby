@@ -6,9 +6,9 @@ categories: [ income-tax ]
 image: "/assets/images/41.jpg"
 ---
 
-Income Tax Authorities: 
+Income Tax Authorities: The National Board of Revenue (NBR) is the central authority for tax administration in Bangladesh. It was established by President's Order No. 76 of 1972. Administratively, it is under the Internal Resources Division (IRD) of the Ministry of Finance (MoF). MoF has 4 Divisions, headed by 4 permanent Secretaries to the Government, namely, the Finance Division the Internal Resources Division (IRD), the Banking Division and the Economic Relations Division (ERD). The Secretary, IRD is the ex-officio Chairman of NBR. NBR is responsible for formulation and continuous re-appraisal of tax-policies and tax-laws, negotiating tax treaties with foreign governments and participating in inter-ministerial deliberations on economic issues having a bearing on fiscal policies and tax administration.
 
-•   The National Board of Revenue;
+The main responsibility of NBR is to collect domestic revenue (primarily, Import Duties and Taxes, VAT and  Income Tax ) for the government.  Other responsibilities include administration of all matters related to taxes, duties and other tax producing fees. Under the overall control of IRD, NBR administers the Excise, VAT, Customs and Income-Tax services consisting of 3434 officers of various grades and 10195 supporting staff positions (Approved set up as on 09 Feb., 2000 AD).
 
 •   Chief Commissioner of Taxes;
 
