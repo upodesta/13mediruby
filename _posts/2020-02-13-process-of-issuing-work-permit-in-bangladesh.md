@@ -41,7 +41,7 @@ The employer is required to publish a newspaper advertisement or online advertis
 
 - This requirement is not always mandatory.
 
-###### SECOND STEP: APPLICATION FOR ISSUANCE OF E VISA RECOMMENDATION
+###### SECOND STEP: APPLICATION FOR ISSUANCE OF E-VISA RECOMMENDATION
 
 Local sponsor (Liaison/Branch Office or local company) will apply to BIDA through online for issuance of E visa recommendation in favor of the desired foreign national. The following documents are usually required for this application:
 

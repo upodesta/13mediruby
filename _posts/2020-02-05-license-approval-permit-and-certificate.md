@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "License and Approval"
+title:  "License, Approval, Permit and Certificate"
 author: SHA
 categories: [ company-law, income-tax ]
 image: "/assets/images/01.jpg"
 ---
-For Bangladesh, below we have compiled a list of licenses/approvals/ permits/certificates, which are most frequently required for doing business in Bangladesh. Please note that there are some other licenses/approvals/ permits, which are not mentioned here.
+For Bangladesh, below we have compiled a list of licenses /approvals /permits /certificates, which are most frequently required for doing business in Bangladesh. Please note that there are some other licenses/approvals/ permits, which are not mentioned here.
 Unless you are conducting your business as a proprietorship, you will be required to register a Partnership or Company prior to obtaining these licenses/approvals/permits/certificate.
 
 - Trade License - All City Corporations, Municipalities & Union Parisads

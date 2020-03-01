@@ -6,7 +6,7 @@ categories: [ company-law ]
 image: "/assets/images/43.jpg"
 ---
 
-The Registrar of Joint Stock Companies and Firms (RJSC) is the sole authority which facilitates formation of companies etc.; and keeps track of all ownership related issues as prescribed by the laws in Bangladesh. The Registrar is the authority of the Office of the Registrar of Joint Stock Companies and Firms, Bangladesh.
+The Registrar of Joint Stock Companies and Firms (RJSCF) is the sole authority which facilitates formation of companies etc.; and keeps track of all ownership related issues as prescribed by the laws in Bangladesh. The Registrar is the authority of the Office of the Registrar of Joint Stock Companies and Firms, Bangladesh.
 
 RJSC deals with the following types of entities:
 

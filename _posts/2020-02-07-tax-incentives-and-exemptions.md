@@ -6,7 +6,7 @@ categories: [ company-law, income-tax ]
 image: "/assets/images/40.jpg"
 ---
 
-Following are fiscal incentives available to a taxpayer:- Tax holiday : Tax holiday is allowed for industrial undertaking and physical infrastructure facility established between 1st July 2011 to 30th June 2019 in fulfillment of certain  conditions.
+Following are fiscal incentives available to a taxpayer:-**Tax Holiday**: Tax holiday is allowed for industrial undertaking and physical infrastructure facility established between 1st July 2011 to 30th June 2019 in fulfillment of certain  conditions.
 
 Industrial Undertaking eligible for Tax holiday : 
 
