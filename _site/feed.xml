@@ -1,739 +1,198 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0">
   <channel>
-    <title></title>
-    <description>A Blog site for income tax, company law and business services</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Mar 2020 18:37:41 +0600</pubDate>
-    <lastBuildDate>Sun, 01 Mar 2020 18:37:41 +0600</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
-    
-      <item>
-        <title>What is Arbitration</title>
-        <description>&lt;p&gt;The essence of arbitration is that it is an agreement between two or more parties to try to resolve a dispute outside of the court system. The parties agree upon a third party as an arbitrator who will act as a judge and jury. After giving the parties the opportunity to present their side of the story and to present any relevant documents or other evidence, the arbitrator will act as King Solomon to decide who wins and who loses. 
-There are usually no set rules as to how arbitration is conducted. It is typically left to the agreement of the parties. To facilitate the process, though, the parties will oftentimes agree to use the rules of an established organization like the American Arbitration Association. 
-There can be binding and non-binding arbitration. A “binding” arbitration generally means that the winning party can take an arbitration award to a court of law and enforce it if the losing party does not comply with the terms of the decision. 
-“Non-binding” arbitration refers to a situation where the parties agree to use arbitration as a forum to try to resolve their differences, but neither party is bound to comply with any decision by the arbitrator.&lt;/p&gt;
-
-&lt;h3 id=&quot;what-are-some-of-the-benefits-of-arbitration&quot;&gt;WHAT ARE SOME OF THE BENEFITS OF ARBITRATION?&lt;/h3&gt;
-&lt;p&gt;The number-one benefit of arbitration is that it serves as a forum to resolve disputes outside of the judicial system. Arbitration can be fast, quick and easy, whereas lawsuits can drag on for years and years. Since the rules of evidence and procedure are usually relaxed in arbitration proceedings, the parties are also in a better position to represent themselves without having to get lawyers involved. 
-It naturally follows that arbitration also tends to be less expensive than pursuing a lawsuit. While the parties will usually end up having to pay the arbitrator, his or her fees will inevitably be less than the attorneys’ fees that they may have to pay to take the same case to trial.
-Even in non-binding arbitration, a benefit can be that it serves to bridge the gap in an adversarial proceeding so that the parties can get a better glimpse of where things are headed if they are unable to resolve their differences. Most cases settle, but many times it is not until the parties are “on the courthouse steps.” Non-binding arbitration may help to facilitate a settlement sooner rather than later.
-Another good thing about arbitration is that an arbitrator is typically not bound by the strict rules of procedure in reaching a decision. He or she can consider a lot more facts and circumstances than a judge or jury. Arbitrators typically try to be practical and oftentimes look at compromise as being inherently fair. Thus, the likelihood is that an arbitrator’s decision will award something to at least one of the parties. However, you would not expect that damages would be awarded that were anywhere near what a jury might have awarded if (and that is a big if) the matter were to have been tried before a jury. 
-Arbitration can also bring finality. Sometimes for the better, a decision on a binding arbitration cannot be appealed or overturned in the absence of a showing of extraordinary circumstances (for example, fraud, bias or other inappropriate actions on the part of the arbitrator). Thus, once a decision is rendered, the case is over. The losing party will typically not be able to appeal (which can make the matter drag on for years and years).&lt;/p&gt;
-
-&lt;h3 id=&quot;what-are-some-of-the-drawbacks-of-arbitration&quot;&gt;What are some of the drawbacks of arbitration?&lt;/h3&gt;
-&lt;p&gt;There are no guarantees that arbitration will be a fair process. As noted, once a decision is rendered in a binding arbitration, the parties are generally stuck with that decision. Without the right to appeal, there is always the risk of being subject to the whims and prejudices of the arbitrator. Overall, this is probably the biggest drawback to the arbitration process. 
-Identifying other drawbacks will typically depend upon which side of the fence you are on. For example, if a party were concerned about a large jury verdict in the event a dispute ever arose, that party would negotiate for an arbitration clause so as to keep things out of court if a dispute happens to arise. For example, in view of the potential for a large jury verdict on a wrongful termination case, this might explain why an employer would want an arbitration clause in an employment contract. Given the potential for a large jury award on a malpractice action, this would also help to explain why a medical provider would want a patient to sign an arbitration clause.
-Ironically enough, the rationale for having an arbitration clause in the first place may actually encourage parties to fight about something where a dispute otherwise could have been avoided. In the absence of an arbitration clause, the parties may be more inclined to compromise rather than pursue an expensive lawsuit. If arbitration is an option, though, there may not be the same deterrents and the parties may simply elect to fight about something rather than try to work out their differences more informally.&lt;/p&gt;
-
-&lt;h3 id=&quot;questions-to-ask-yourself&quot;&gt;Questions to Ask Yourself&lt;/h3&gt;
-
-&lt;h3 id=&quot;why-is-an-arbitration-clause-being-proposed&quot;&gt;Why is an arbitration clause being proposed?&lt;/h3&gt;
-&lt;p&gt;If you are being asked to sign a contract, always look to see if there is an arbitration clause. If there is enough at stake in the contract, you should question why it makes sense to have such a clause in there. If the potential benefits outweigh the potential drawbacks, it would make sense to agree to arbitration. Otherwise, you may want to propose that it be taken out.&lt;/p&gt;
-
-&lt;h3 id=&quot;are-personal-rights-involved&quot;&gt;Are personal rights involved?&lt;/h3&gt;
-&lt;p&gt;In a strictly business or consumer situation, arbitration may make a lot of sense. However, it may be a different situation where other rights are involved that could potentially have a devastating effect on you personally in the event of a dispute. Examples would include anything having to do with your job or with professional services that might be rendered to you.&lt;/p&gt;
-
-&lt;h3 id=&quot;am-i-in-the-position-to-negotiate-with-respect-to-the-arbitration-clause&quot;&gt;Am I in the position to negotiate with respect to the arbitration clause?&lt;/h3&gt;
-&lt;p&gt;In theory, all contracts are negotiable. However, the practical ability to do so depends on the bargaining position of the parties. If you are a consumer, for example, you may not have much choice other than to “take it or leave it” in many contracts that you are being asked to sign. In other situations, such as buying a house or negotiating an employment contract, you may have a large say in the matter.&lt;/p&gt;
-
-&lt;h3 id=&quot;would-you-benefit-from-arbitration&quot;&gt;Would you benefit from arbitration?&lt;/h3&gt;
-&lt;p&gt;This is where you have to pull out your crystal ball. Try to anticipate the nature of any disputes that would arise. Would you want to resolve them quickly and easily through arbitration with the associated risks (for example, the potential for limited damages, no right to appeal, the difficulty of assessing the fairness of the process)?&lt;/p&gt;
-
-&lt;h3 id=&quot;would-i-be-in-a-better-position-to-fight-a-court-battle-than-the-other-side&quot;&gt;Would I be in a better position to fight a court battle than the other side?&lt;/h3&gt;
-&lt;p&gt;This is sort of a ruthless way to look at the situation. In a business deal, though, you may not want to give the other side a right to arbitrate if you would be in a better position to stick it out in a court battle. The flip side, of course, is that you may very well want to agree to arbitration if your best chance at resolving any disputes that arise is going to be through getting to arbitration as quickly and inexpensively as possible.&lt;/p&gt;
-
-&lt;h3 id=&quot;what-do-i-have-to-lose-by-agreeing-to-arbitration&quot;&gt;What do I have to lose by agreeing to arbitration?&lt;/h3&gt;
-&lt;p&gt;The answer to this question depends upon the nature of the dispute that might arise and what your remedy might be. If you are giving up an opportunity to go to court on an injury where a large jury verdict might result in your favor, you may not want to agree to arbitration. Even though the cost of going to court would be tremendous, attorneys are more inclined to take cases on a contingency-fee basis where jury verdicts can be obtained. Primary examples would include personal injury and employment law matters.&lt;/p&gt;
-
-&lt;h3 id=&quot;what-does-the-arbitration-clause-cover&quot;&gt;What does the arbitration clause cover?&lt;/h3&gt;
-&lt;p&gt;Arbitration clauses have evolved to be rather sophisticated and complex. You should read each sentence carefully and try to understand it. Sometimes the concept of arbitration may make sense but the clause itself can be too overbearing. The opposite may likewise be true. If the clause does not make sense to you, you may want to hire a lawyer to go over it with you prior to your signing the contract.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 29 Feb 2020 00:00:00 +0600</pubDate>
-        <link>http://localhost:4000/company-law/income-tax/2020/02/29/what-is-arbitration.html</link>
-        <guid isPermaLink="true">http://localhost:4000/company-law/income-tax/2020/02/29/what-is-arbitration.html</guid>
-        
-        
-        <category>company-law</category>
-        
-        <category>income-tax</category>
-        
-      </item>
-    
-      <item>
-        <title>Black Money for Income Tax Purpose</title>
-        <description>&lt;p&gt;All payments made out of unaccounted funds, which have not borne the due tax liability, are black money transactions. Payments for services of plumbers, electricians, mechanics, housemaids, etc. are also made in cash. School and clollege fees for children are invariably paid in cash. Large payments to hotels, restaurants and travel agents may also be made in cash. Payments made in cashcould be out accounted or unaccounted funnds. We often hear a remark in the context of immovable property transactions, i.e. when we want to buy or sell a property, it ususally goes thus - How much by cheque or in Number 1 and how much by cash or in Number 2 ?&lt;/p&gt;
-
-&lt;p&gt;Invariably, when the transaction for sale of property is between two private parties i.e. in the secondary market, the sale consideration may partly be paid be cheque and partly by cash. This is the accepted norm and it is extremely difficult to carry out a transaction without being a party to this practice. The amount which is paid in cash, or the so called Number 2 componenet or the -on money-, remains unaccounted both for stamp duty purposes as well as income tax purposes. For the buyer, the source of the amount paid in cash can not be questioned by anybody as it does not on record. Since the sale deed is executed only on the amount paid by cheque, the stamp duty paid is less than what would be payable on the actual consideration. The seller also shows only the recorded price for capital gain purposes and thus evades income tax. In this manner, huge amounts of unaccounted cash or Number 2 money or black money hands in real estate transactions and get invested in property.&lt;/p&gt;
-
-&lt;p&gt;For income tax purposes, all such income which has been concealed and on which tax has been evaded, irrespective of the source of such income or the motive for earning such income, acquires the character of black money. Thus all income which is not reported to the tax authorities becomes black income even though there may have been no illegality involved in earning such income.&lt;/p&gt;
-
-&lt;p&gt;A common perception that prevails is that only transactions in cash are black money transactions whereas all transactions/payments/receipts by cheque can not be treated as black money transactiona. This is a misconception and needs to be dispelled. All transactions whether carried out in cash or through banking channels could be black money transactions if the amount involved have not borne the due tax liability. The reverse is also true. Transactions made out of funds duly disclosed for income tax purposes, even if carried out in cash not more than taka 50,000/- limit, can not be treated as black money transaction.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 27 Feb 2020 00:00:00 +0600</pubDate>
-        <link>http://localhost:4000/income-tax/2020/02/27/black-money-for-income-tax-purpose-in-bangladesh.html</link>
-        <guid isPermaLink="true">http://localhost:4000/income-tax/2020/02/27/black-money-for-income-tax-purpose-in-bangladesh.html</guid>
-        
-        
-        <category>income-tax</category>
-        
-      </item>
-    
-      <item>
-        <title>Policy Support to Corporate Social Responsibilty</title>
-        <description>&lt;p&gt;Businesses without addressing the needs and expectations of stakeholders in a community cannot remain competitive in the contemporary era. A strategic approach to Corporate Social Responsibility (CSR) can bring benefits in terms of building reputation, brand value, customer relationships, operational risk management,  driving  up efficiency,  access to new markets  and better  human resource management through employee motivation and retention. Responsible business conduct is especially important when private sector operators provide public services. CSR offers a set of values on which a more cohesive society can be built and on which the transition to a sustainable financial and economic system can be based. Enhancing CSR as a means for poverty reduction and sustainable development in a developing country like ours with modest resources requires joint initiatives by all stakeholder  groups  involved:  governmental  bodies,  NGOs,  and corporations,  as  well  as  primary  producers  and  workers.  Only through co- operation of stakeholders at all levels CSR can have a beneficial social and developmental impact.  Moreover, multi-stakeholder initiatives are  an appropriate tool for experience-sharing and the development of best practices for creating a link between corporate insight and the government agenda.&lt;/p&gt;
-
-&lt;h3 id=&quot;roles-and-challenges-of-government-bodies&quot;&gt;Roles and Challenges of Government Bodies:&lt;/h3&gt;
-
-&lt;p&gt;CSR policy in theory is supposed to function as a built-in, self-regulating mechanism, whereas in practice, CSR will thrive in the context of a consistently applied and enforced set of minimum environmental and social standards only through the right mix of policies from government bodies.
-Governments are expected to play four key roles:  mandating  (legislative), facilitating  guidelines  on  content,  fiscal  and  funding  mechanisms,  creating  framework conditions), partnering (engagement in multi-stakeholder  processes, stimulating dialogue) and endorsing (publicity). Throughout these roles, they can switch  gears  as  they  deem  appropriate,  between  soft  incentives  and  hard regulation.
-Forms of legal incentives can range from private and voluntary codes, to certification and labeling schemes to transparency or reporting guidelines. Legal incentives as appealing as they may sound often lack the legitimacy and enforcement mechanisms of tougher law. On the other hand, the problem with the regulatory or hard approach is that, the private sector may switch to a box- ticking or compliance mode without genuine commitment or concrete substance, gradually  compromising  the  voluntary  character  of  CSR,  one  of  its  defining features. The central challenge for governments’  progression is the question of how to more effectively manage the costs and benefits of business activity and to foster business engagement in national policy processes. In other words, governments  need  to  identify  various  forms  of  intervention  that  can  more effectively  harness  the  strengths  of  the  private  sector  and  can  also  foster alignment between CSR strategies and the pursuit of overall public policy goals.
-The real challenge is to deploy the right types of soft/hard incentives and cross- sector partnerships  that serve the public interest; and to create a stimulating and enabling environment for businesses to create long-term added social value.&lt;/p&gt;
-
-&lt;h3 id=&quot;why-developing-country-governments-should-be-interested-in-csr&quot;&gt;Why developing country governments should be interested in CSR:&lt;/h3&gt;
-
-&lt;p&gt;There are two broad sets of justifications for public sector actors in middle and low-income countries to be engaged with CSR. One is defensive and other one is proactive.  But  these  two  are  not  mutually  exclusive.  A  policy  initiative  that initially  has a defensive  justification  may  quickly  become  part  of a proactive strategy of engagement.
-The defensive justification relates to minimizing the potential adverse effects of CSR  on  local  communities,  environments  and  markets  when  it  is  imposed through  international  supply  chains  and  investment.  For increasing  domestic public benefits of CSR practices in economic, social and environmental terms, the engagement of public sector actors in CSR activities provides the proactive justification.
-From  a  sustainable  development  perspective,  public  sector  engagement  with CSR  potentially  spans  social,  economic  and  environmental  spheres,  including issues of corruption,  poverty reduction  and human rights. The goals of public sector  engagement  in CSR  are likely  to differ  from  country  to country.  They might be structured in relation to the underlying drivers for public engagement in CSR.
-In a tax system, a Government may promote CSR, amongst others, by the adoption of environment-friendly  tax policies, such as taxes on consumption of fossil fuels or on polluting processes and reliefs for socially desirable expenditure.&lt;/p&gt;
-
-&lt;h3 id=&quot;income-tax-regulation-in-bangladesh-on-csr&quot;&gt;Income Tax Regulation in Bangladesh on CSR:&lt;/h3&gt;
-
-&lt;p&gt;National  Board of Revenue (NBR) of Bangladesh  issued Statutory  Regulatory Order (SRO) by providing tax exemption on the expenditure made by corporates for  CSR  activities  in  2011.  The  regulations  stated  in that  SRO  were  further amended  in  2012  and  the area of CSR applicable for tax exemption  was enhanced.  The rules of tax exemption for CSR activities of corporates are mentioned below:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Any company  will get exemption  of Income  Tax at the rate of 10% for actual cost/money expended in Corporate Social Responsibility.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Conditions for Income Tax Exemptions-&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;It will not be applicable for the amount expended in excess of 20% of gross income of the company or BDT 8 (eight) crore whichever is lower.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;The companies which are interested to attain tax exemption facility as corporate entity, they-
-        &lt;ul&gt;
-          &lt;li&gt;have to pay salary-allowance of their employee-staffs regularly and must have waste treatment plant in their factory/industry especially if industrial goods are manufactured.&lt;/li&gt;
-          &lt;li&gt;must pay income tax, VAT, duty and repay institutional debt/obligations regularly.&lt;/li&gt;
-          &lt;li&gt;can donate to the institutions under CSR only approved by Government.&lt;/li&gt;
-          &lt;li&gt;must comply with all regulations of Bangladesh Labor Act, 2006.&lt;/li&gt;
-          &lt;li&gt;cannot  treat  the  amount  expended  under  CSR  as  an  accredited expenses  in  Manufacturing  Account,  Commercial  Account  or  Profit- Loss Account.&lt;/li&gt;
-          &lt;li&gt;have to submit necessary documents/evidences  for claiming the tax exemption on CSR to the concerned Deputy Tax Commissioner.&lt;/li&gt;
-          &lt;li&gt;have to submit CSR Work Plan by the company to NBR in written for availing Income Tax Exemption Certificate.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Fields/Sectors of CSR applicable for tax exemption&lt;/p&gt;
-
-        &lt;ul&gt;
-          &lt;li&gt;Aid  through  any  government  body  for  reducing  mass  crisis  in natural  disaster  (Hurricane,  Tremor,  Cyclone  and Flood)  affected area.&lt;/li&gt;
-          &lt;li&gt;Aid to organizations establishing and operating old homes.&lt;/li&gt;
-          &lt;li&gt;Aid to any social organization pursuing welfare activities for mentally and physically challenged persons.&lt;/li&gt;
-          &lt;li&gt;Aid to education institutions operating for teaching rootless children.&lt;/li&gt;
-          &lt;li&gt;Aid to organizations pursuing housing projects for slam dwellers.&lt;/li&gt;
-          &lt;li&gt;Aid to social organizations pursuing women empowerment and anti- dowry campaign.&lt;/li&gt;
-          &lt;li&gt;Aid  to  organizations  pursuing  subsistence  and  rehabilitation  of orphan and rootless children.&lt;/li&gt;
-          &lt;li&gt;Aid to organizations involved in independence war related research, recovery and expanding of independence  war spirit and honorable living of freedom fighters.&lt;/li&gt;
-          &lt;li&gt;Aid to organizations involved in healthy sanitation activities Hilly Chittagong, Char region and River Eroded regions.&lt;/li&gt;
-          &lt;li&gt;Aid to institutions providing medical treatment to cleft lip, cataract and cancer.&lt;/li&gt;
-          &lt;li&gt;Aid  to  people  and  organization  involved  in  medical  treatment activities of acid victims.&lt;/li&gt;
-          &lt;li&gt;Aid to hospitals providing free medical services to poor patients and specialized hospital improving medical treatment like cancer, liver and kidney diseases, thalassemia, ophthalmology, cardiology etc.&lt;/li&gt;
-          &lt;li&gt;Aid to public universities.&lt;/li&gt;
-          &lt;li&gt;Aid to government affiliated educational institutions in order to provide scholarship or financial aid to children of poor freedom fighter including poor brilliant students for technical or vocational education.&lt;/li&gt;
-          &lt;li&gt;Aid to government or MPO listed non-government educational institutions to set up laboratory for computer or IT training or English language training.&lt;/li&gt;
-          &lt;li&gt;Aid to institute providing technical or vocational training to unskilled or semi-skilled labors for manpower export.&lt;/li&gt;
-          &lt;li&gt;Aid to institute providing sports training or development services at national level.&lt;/li&gt;
-          &lt;li&gt;Aid to museum (built or under construction) for preserving memory of independence war.&lt;/li&gt;
-          &lt;li&gt;Aid to any institution at national level involved in preserving memory of the father of the nation.&lt;/li&gt;
-          &lt;li&gt;Aid to the fund formed under Prime Minister’s Education Assistance Trust Act, 2012&lt;/li&gt;
-          &lt;li&gt;Aid to non profitable and non government voluntary social welfare organization working for operating rehabilitation center for medical treatment and awareness building on HIV, AIDS and Narcotics.&lt;/li&gt;
-          &lt;li&gt;Aid to non profitable and non government voluntary social welfare organization    working   for   operating   rehabilitation    center   for recovered children and women from trafficking.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;csr-activities-of-banks-in-bangladesh&quot;&gt;CSR activities of banks in Bangladesh:&lt;/h3&gt;
-
-&lt;p&gt;Historically, the banking sector of Bangladesh has been amply participating in various social activities especially, in the areas of education, health, sports, benevolent activities like donations to different charitable organizations, to poor people  and  religious  institutions,  city  beautification  and  patronizing  art  &amp;amp; culture, etc.In   June   2008,   Bangladesh   Bank   issued   a   comprehensive   circular   titled
-‘Mainstreaming Corporate Social Responsibility (CSR) in banks and financial institutions in Bangladesh’. In that circular, CSR was defined as (i) considering the   economic,   social   and   environmental   consequences   of   a   business,   (ii) mitigating the negative impacts and bolstering the benign effects, (iii) initiating action programs and community investments to trim down social exclusion and inequality  as well  as to address  the core sustainable  development  challenges (fulfilling  the  requirements  of  the  current  generation  without  cramping  the capacity of future generations is a generally agreed meaning of ‘sustainable development’).
-BB has been motivating  banks to expand lending to the under-served  sectors both as business case and CSR obligation; expecting to lead to more broad-based inclusive growth, and therefore reduce poverty. BB has indicated some priority areas  in the field  of CSR  like Self-employment  and SME  credits  designed  to create  productive   new  on-farm/off-farm   employment;   Financing   of  biomass processing  plants,  solar  panels,  waste  recycling  plants,  Effluent  Treatment Plants  (ETPs);  Credit  programs  for  diversified  production  of  crops,  oilseeds, spices, vegetables, fruits etc.; Mobile phone based/MFI supported programs for prompt delivery of remittances; card based/mobile phone based delivery of financial services; Financing programs to promote domestic tourism and markets in cultural products/events.
-Bangladesh Bank has, of course, started guiding the banking sector to become more environmentally responsive (e.g. via refinancing new loan products on solar energy, bio-gas, effluent treatment plant etc). All the commercial banks are asked to formulate their own CSR policy with the annual outlay for CSR programs and include  the  CSR  programs  in  their  mainstream  banking  activities  instead  of short-term social works like providing grants, aids and donations. In December 2010, Bangladesh Bank instructed the banks to establish separate CSR desk to
-pay special attention on this issue.&lt;/p&gt;
-
-&lt;p&gt;Reporting of the CSR initiatives by banks was suggested as appendage to regular annual financial reports, ultimately to build up full length wide-ranging reports in the Green Reporting  Initiatives  (GRI) format. Alike the statutory  financial reports, the CSR reports were also anticipated to be publicly available for stakeholders’ perusal.
-Bangladesh Bank has been publishing CSR review report annually for tracing advancement  in  mainstreaming  of  CSR  activities.  CSR  initiatives  of  banks during last five years continued focus on i) financial inclusion of less privileged population segments and underserved  economic sectors, ii) emergency relief in humanitarian distresses, ii) promotion of health, education and cultural/recreational  activities  for  advancement  and  well  being  of underprivileged  population  segments,  iii)  financing  and  promotion  of environment friendly projects, iv) adoption of energy efficient, carbon footprint reducing internal processes and practices in own offices and establishments.
-Besides CSR initiatives involving direct expenditure, financial inclusion initiatives of banks proceeded apace during last five years. All banks participated actively in promotion of lending to SMEs and agricultural. For broader, deeper financial inclusion, banks proceeded ahead on multiple fronts including increased rural bank branch presence, mobile phone banking,  and opening  of bank accounts for low income population free of charge with nominal Taka 10 initial deposit.
-In 2013, CSR expenditure of banks totaled 4.42 billion taka; eight times larger than in 2009. It will not be an overstatement to say that the banking sector led
-CSR initiatives in Bangladesh.&lt;/p&gt;
-
-&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion:&lt;/h3&gt;
-
-&lt;p&gt;Globally, banks pursue CSR practices from self initiative. Central bank usually doesn’t intervene in their CSR activities or provide any directives to motivate banks for participating in CSR activities. But, in case of Bangladesh, the central bank provided regulatory framework to banks for CSR activities and monitors that in a regular fashion. Bangladesh Bank is one of the members of United Nations Global Compact(UNGC) concentrating  in  the  areas  of  human rights, labor standards, the environment and  anti- corruption.
-Bangladesh  Bank being the chair of the Steering Committee  of UNGC Bangladesh  Local Network is actively leading CSR issues and implementation  of CSR activities in financial sector as well as facilitates social investments in Bangladesh.
-Bangladesh  Bank  in  association  with  CSR  Centre,  Bangladesh  playing  a  major  role  in different programs involving social, economic and environmental aspects.
-Bangladesh Bank Disaster Management and Corporate Social Responsibility Fund of Taka 5 Crore has been established in BB where 2.29 crore has already been disbursed for different projects addressing health, education, environment, disaster management and Human Resources Development/Capacity Building.As Bangladesh is a developing country, both central bank and revenue collector of government  have to take proactive steps for fostering growth and economic development.   Moreover,   in  a  country   like  Bangladesh,   poverty   alleviation through minimizing income disparity is one of the top priorities. In that context, BB  devises  supervisory  policies  in  such  a manner,  especially  for  last  several years, so that banks not only move forward for their own growth, but also can
-support the development initiatives of the government. On the other hand, NBR too has provided tax incentive on CSR activities aimed towards motivating sustainable development activities.
-Since the issuance of CSR directive by BB and SRO on after tax incentive from NBR, the involvement of banks in CSR activities has augmented in many folded aspects.   Banks’   rapidly   increasing   participation   in   CSR   activities   with incorporation   of   socially   and   environmentally   accountable   organizational objectives,   strategies   and  operations   that  are  swiftly   turning   into   global standards   in   “socially   responsible   competition”   towards   rearing   inclusive economic and social growth and facilitate the nation to go forward with desired growth and efficient allocation of resources. Surely the collaborative effort by the concerned government bodies will further increase the CSR activities by banks which will support sustainable development drive of the Bangladesh.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 22 Feb 2020 00:00:00 +0600</pubDate>
-        <link>http://localhost:4000/company-law/income-tax/2020/02/22/policy-support-to-corporate-social-responsibilty.html</link>
-        <guid isPermaLink="true">http://localhost:4000/company-law/income-tax/2020/02/22/policy-support-to-corporate-social-responsibilty.html</guid>
-        
-        
-        <category>company-law</category>
-        
-        <category>income-tax</category>
-        
-      </item>
-    
-      <item>
-        <title>Key Information on Income Tax</title>
-        <description>&lt;p&gt;Among direct taxes, income tax is the main source of revenue. It is a progressive tax system. Income tax is imposed on the basis of ability to pay. “The more a taxpayer earns the more he should pay’’- is the basic principle of charging income tax. It aims at ensuring equity and social justice. In Bangladesh income tax is being  administered  under  the  tax  legislations  named  as  “THE  INCOME  TAX  ORDINANCE,  1984 (XXXVI OF 1984) and INCOME TAX RULES, 1984.”&lt;/p&gt;
-
-&lt;p&gt;Who should submit Income Tax Return?&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;If total income of any individual other than female taxpayers, senior male  taxpayers of 65 years and above, retarded taxpayers and war wounded gazetted freedom fighter during the income year exceeds Tk 2,50,000/-.&lt;/li&gt;
-  &lt;li&gt;If total income of any female taxpayer, senior male taxpayer of 65 years and above during the income year exceeds Tk 3,00,000/-.&lt;/li&gt;
-  &lt;li&gt;If total income of any retarded taxpayer during the income year exceeds TK. 3,75,000.&lt;/li&gt;
-  &lt;li&gt;If total income of any gazetted war-wounded freedom fighter taxpayer during the income year exceeds Tk. 4,25.000/-.&lt;/li&gt;
-  &lt;li&gt;If any person was assessed for tax during any of the 3 years immediately preceding the income year.&lt;/li&gt;
-  &lt;li&gt;A person who lives in any city corporation/paurashava/divisional HQ/district HQ and owns motor car/owns membership of a club registered under VAT Law.&lt;/li&gt;
-  &lt;li&gt;If any person runs a business or profession having trade license and operates a bank account.&lt;/li&gt;
-  &lt;li&gt;Any professional registered as a doctor, lawyer, income tax practitioner, Chartered Accountant, Cost &amp;amp; Management Accountant, Engineer, Architect and Surveyor etc.&lt;/li&gt;
-  &lt;li&gt;Member of a Chamber of Commerce and Industries or a trade Association.&lt;/li&gt;
-  &lt;li&gt;Any person who participates in a tender.&lt;/li&gt;
-  &lt;li&gt;Candidate for Paurashava, City Corporation, Upazilla or Parliament elections.&lt;/li&gt;
-  &lt;li&gt;Any company registered under the  Company Act, 1913 or 1994.&lt;/li&gt;
-  &lt;li&gt;Any Non-government organization (NGO) registered with NGO Affairs Bureau.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Consequences of Non-Submission of Return and Return of withholding tax:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;imposition of  penalty amounting to  10% of tax on last assessed income subject to a minimum of Tk. 1,000/-&lt;/li&gt;
-  &lt;li&gt;in case of an individual assessee whose income was not assessed previously Tk. 5,000/-.&lt;/li&gt;
-  &lt;li&gt;in case of an individual assessee whose income was assessed previously, fifty per cent (50%) of the tax payable on the last assessed income or Tk. 1,000/-, whichever is higher.&lt;/li&gt;
-  &lt;li&gt;In case of a continuing default by any type of assessee, a further penalty of Tk. 50/- for every day of delay.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Assessment Procedures:&lt;/p&gt;
-
-&lt;p&gt;For a return submitted under normal scheme, assessment is made after giving an opportunity of hearing.
-For  returns  submitted  under  Universal  Self  Assessment  Scheme,  the  acknowledgement  slip  is considered to be an assessment order of the Deputy Commissioner of Taxes. Universal Self Assessment may be subject to “process and audit”.&lt;/p&gt;
-
-&lt;p&gt;Provided that a return of income filed under universal self assessment scheme, shall not be selected for audit where such return shows at least twenty per cent higher income than the income assessed or shown in the return of the immediately preceding assessment year and such return-
-(a)  is accompanied by corroborative evidence in support of income exempted from tax; (b) does not show receipt of gift during the year;
-(b)  does not show any income chargeable to tax at a rate reduced under section 44; or
-(c)  does not show or result any refund.&lt;/p&gt;
-
-&lt;p&gt;Tax Recovery System :&lt;/p&gt;
-
-&lt;p&gt;In case of non-payment of income tax demand, the following measures can be taken against a taxpayer for realization of tax:-&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Imposition of penalty.&lt;/li&gt;
-  &lt;li&gt;Attachment of bank accounts, salary or any other payment.&lt;/li&gt;
-  &lt;li&gt;Filing of Certificate case to the Special Magistrate/Collector of District.&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Fri, 21 Feb 2020 00:00:00 +0600</pubDate>
-        <link>http://localhost:4000/income-tax/2020/02/21/key-information-on-income-tax.html</link>
-        <guid isPermaLink="true">http://localhost:4000/income-tax/2020/02/21/key-information-on-income-tax.html</guid>
-        
-        
-        <category>income-tax</category>
-        
-      </item>
-    
-      <item>
-        <title>Trademark Registration in Bangladesh</title>
-        <description>&lt;p&gt;Trademark registration in Bangladesh is performed through the &lt;a href=&quot;http://www.dpdt.gov.bd&quot;&gt;Department of Patents, Designs and Trademarks (DPDT)&lt;/a&gt;. Any person claiming to be the proprietor of a trademark already in use or proposed to be used in Bangladesh may apply in writing for registration of a Trademark in the prescribed manner. An applicant has to file application for the registration of a trademark to the Trademark Registry Wing of the DPDT.&lt;/p&gt;
-
-&lt;p&gt;Service Marks can also be registered in Bangladesh. Applicants can apply for registration of service marks in Bangladesh. The International Nice Classification of Services is applicable for this purpose.&lt;/p&gt;
-
-&lt;h6 id=&quot;search&quot;&gt;SEARCH&lt;/h6&gt;
-
-&lt;p&gt;The applicant may conduct a search for similar trademarks with the DPDT. This is not mandatory for the registration of trademarks.&lt;/p&gt;
-
-&lt;h6 id=&quot;application-of-trademark&quot;&gt;APPLICATION OF TRADEMARK&lt;/h6&gt;
-
-&lt;p&gt;An application for the registration of a trademark shall include the following-&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Name of the Mark /Logo/Device prints or representation.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Name of the Applicant.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Address and nationality of the Applicant.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Status of the applicant i.e. Merchandisers / Manufacturers /Service Providers&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Specification of Goods/Services and Class.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;User date of the mark (whether the mark is in use or proposed to be used in Bangladesh.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;General/specific power of attorney may be required.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Applicable fees is required to be paid.&lt;/p&gt;
-
-&lt;h6 id=&quot;acceptance-or-rejection-of-trademark-by-the-registrar&quot;&gt;ACCEPTANCE OR REJECTION OF TRADEMARK BY THE REGISTRAR&lt;/h6&gt;
-
-&lt;p&gt;After filing the application, the Registrar may either accept or reject or order to correct or modify the application. An application for registration of a trade mark may be accepted either absolutely or subject to conditions or limitations. The Registrar, on receipt of the application, issues Official Filing Receipt. The document contains all relevant filing details on the trademark e.g. Application Number, date of application, the trademark etc. If the Registrar reject any application, s/he should issue a show cause letter to the applicant. The applicant must submit reply to the show cause notice and may seek a hearing in the matter within three (03) months otherwise, the application will be deemed abandoned&lt;/p&gt;
-
-&lt;h6 id=&quot;journal-publication&quot;&gt;JOURNAL PUBLICATION&lt;/h6&gt;
-
-&lt;p&gt;After an application is accepted by the Registrar, s/he shall provide a Journal Notification to the applicant for the advertisement of the mark. Afterwards the applicant is required to deposit journal fees though pay order/treasury chalan/bank draft. Then DPDT will send the mark to Bangladesh Government Press (BG Press) for publication.&lt;/p&gt;
-
-&lt;h6 id=&quot;opposition-of-the-mark&quot;&gt;OPPOSITION OF THE MARK&lt;/h6&gt;
-
-&lt;p&gt;After BG Press publishes the mark, any person may within two (02) months from the date of the publication give notice of Opposition to the Registrar using prescribed form.&lt;/p&gt;
-
-&lt;p&gt;The Registrar shall send a copy of the Notice of Opposition to the Applicant and the Applicant shall within Two month of receipt of the Notice of Opposition, file a Counter Statement of the grounds for which it relies for its application to be registered. Failure to file the Counter Statement within the prescribed period will result in the application being deemed abandoned. The applicant may seek extension of time for filing Counter-Statement along with Govt. fees.&lt;/p&gt;
-
-&lt;h6 id=&quot;registration-of-the-mark&quot;&gt;REGISTRATION OF THE MARK&lt;/h6&gt;
-
-&lt;p&gt;If there is no opposition, DPDT will inform the applicant to pay certification fees. The applicant is required to submit the money receipt of the certification fees to DPDT.&lt;/p&gt;
-
-&lt;p&gt;On the registration of a trade mark the Registrar shall issue to the applicant a certificate in the prescribed form of the registration thereof sealed with the seal of the Trade Marks Registry.&lt;/p&gt;
-
-&lt;p&gt;Where a Counter Statement is filed, the Registrar shall furnish a copy thereof to the Opponent. The parties are required to file evidence by way of Affidavit and the Registrar shall, after hearing the parties, decide on whether the application should be registered or not. The decision of the Registrar shall be subject to appeal to the High Court.&lt;/p&gt;
-
-&lt;h6 id=&quot;term-and-renewal&quot;&gt;TERM AND RENEWAL&lt;/h6&gt;
-
-&lt;p&gt;A registered trademark is valid for an initial period of seven (7) years from the date of filing and renewable thereafter for successive periods of Ten (10) years.&lt;/p&gt;
-
-&lt;p&gt;Renewal fees must be paid before the expiry date but not more than six months prior the expiry. Late renewals available, normally up to four months after expiry date, with payment of late fees. Extensions at the direction of Registrar are liberally granted with payment of additional fees.&lt;/p&gt;
-
-&lt;h6 id=&quot;assignment-of-trademark&quot;&gt;ASSIGNMENT OF TRADEMARK&lt;/h6&gt;
-
-&lt;p&gt;The Registered proprietor of a Trade mark has power to assign the registered trademark with or without goodwill of the business in respect of all or some of the goods for which it is registered. Where a person becomes entitled by assignment or transmission to a registered trademark, he shall make application to the Registrar (in the prescribed manner) to register his title and the Registrar shall, on receipt of the application and on proof of title to his satisfaction, register the Assignee as the proprietor of the trademark.&lt;/p&gt;
-
-&lt;h6 id=&quot;licensing-of-trademark&quot;&gt;LICENSING OF TRADEMARK&lt;/h6&gt;
-
-&lt;p&gt;Licenses must be recorded with the authority to be effective. Application for record must be made to the Registrar.&lt;/p&gt;
-
-&lt;h6 id=&quot;remedy-for-infringement&quot;&gt;REMEDY FOR INFRINGEMENT&lt;/h6&gt;
-
-&lt;p&gt;Where the rights of a proprietor of a registered trademark has infringed, s/he can initiate civil proceeding or criminal proceeding for remedy. Any suit regarding the infringement of trademark, or to establish the right or any ratified right respecting trademark shall be instituted in the Court of District Judge within whose jurisdiction the infringement occurred. A criminal proceeding has to be instituted in the Court of Metropolitan Magistrate or any other 1st class Judicial Magistrate. Remedy in a suit for infringement may be availed in the form of injunction, damages, an accounts of profit, destruction or erasure of falsifying trademark, delivery up the goods marked with false trademark.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 20 Feb 2020 00:00:00 +0600</pubDate>
-        <link>http://localhost:4000/company-law/2020/02/20/trademark-registration-in-bangladesh.html</link>
-        <guid isPermaLink="true">http://localhost:4000/company-law/2020/02/20/trademark-registration-in-bangladesh.html</guid>
-        
-        
-        <category>company-law</category>
-        
-      </item>
-    
-      <item>
-        <title>Required Documens to Open a Foriegn Company Branch in Bangladesh</title>
-        <description>&lt;p&gt;Following documents are required for application of opening a foreign company Branch/Liaison/Representative office in Bangladesh&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Audited accounts of last financial year of the principal company&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Company’s board of director’s resolution regarding opening of office in Bangladesh&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Proposed orgonogram of the office showing the post to be occupied by both expatraites and local personnel&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Details of activities of the principal company and details of activities to be performed through the proposed Branch/Liaison/Representative office in Bangladesh&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Name and Nationality of the Directors/Promoters of the principal company&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Memorandum and Articles of Association of the principal company&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Certificate of Incorporation&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Attachement of company comment as per remarks(if any)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;note&quot;&gt;Note&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Documents shall have to be attested by the concern Bangladesh Mission of the respective country&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;After submitting the application please submit original copy (Hard copy) of all documents to the Bangladesh Investment Development Authority (BIDA)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Encashment certificate of inward remittance of minimum US$ 50,000.00 as initial establishment cost for branch/liaison/joint-venture and 100% foreign ownership company incorporation in Bangladesh&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Documents must be submitted by an authorized person of the principal company including authorization letter&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 19 Feb 2020 00:00:00 +0600</pubDate>
-        <link>http://localhost:4000/company-law/income-tax/2020/02/19/required-documents-to-open-foreign-company-in-Bangladesh.html</link>
-        <guid isPermaLink="true">http://localhost:4000/company-law/income-tax/2020/02/19/required-documents-to-open-foreign-company-in-Bangladesh.html</guid>
-        
-        
-        <category>company-law</category>
-        
-        <category>income-tax</category>
-        
-      </item>
-    
-      <item>
-        <title>Process of Issuing Work Permit in Bangladesh</title>
-        <description>&lt;p&gt;Work permit is mandatory for every foreign national seeking employment in Bangladesh. Three government authorities issue work permit in Bangladesh.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;For private sector industrial enterprise, branch office and liaison office, outside of Export Processing Zone (EPZ) – &lt;a href=&quot;http://bida.gov.bd&quot;&gt;Bangladesh Investment Development Authority (BIDA)&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;For employment of foreign national in the EPZ – &lt;a href=&quot;http://www.bepza.gov.bd&quot;&gt;Bangladesh Export Processing Zones Authority (BEPZA)&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;For employment of foreign national in any NGO – &lt;a href=&quot;http://ngoab.gov.bd&quot;&gt;NGO Affairs Bureau&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;work-permit-issued-by-bida&quot;&gt;WORK PERMIT ISSUED BY BIDA&lt;/h3&gt;
-
-&lt;p&gt;Private sector industrial enterprises, branch office, liaison/representative office desiring to employ foreign nationals are required to apply to BIDA in their prescribed from. While issuing work permit, BIDA usually follows the following guidelines&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Only nationals of countries recognized by Bangladesh are considered for employment.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Employment of expatriate personnel is considered only in industrial/commercial establishments which are sanctioned/registered by the appropriate authority.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Employment of foreign nationals is normally considered for the job for which local experts/technicians are not available.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Persons below 18 years of age are not eligible for employment.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A decision of the board of directors of the concerned company for new employment/employment extension is to be furnished in each case.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The number of foreign employees should not exceed 5% in the industrial sector and 20% in commercial sector of the total employees, including top management personnel.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Initially, employment of any foreign national is considered for a term of one year, which may be extended on the basis of merit of the case.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Security clearance will be required from Ministry of Home Affairs.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;process-of-issuing-work-permit-by-bida&quot;&gt;PROCESS OF ISSUING WORK PERMIT BY BIDA&lt;/h4&gt;
-
-&lt;h6 id=&quot;first-step-publication-of-newspaper-advertisement&quot;&gt;FIRST STEP: PUBLICATION OF NEWSPAPER ADVERTISEMENT&lt;/h6&gt;
-
-&lt;p&gt;The employer is required to publish a newspaper advertisement or online advertisement for the recruitment.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;This requirement is not always mandatory.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h6 id=&quot;second-step-application-for-issuance-of-e-visa-recommendation&quot;&gt;SECOND STEP: APPLICATION FOR ISSUANCE OF E-VISA RECOMMENDATION&lt;/h6&gt;
-
-&lt;p&gt;Local sponsor (Liaison/Branch Office or local company) will apply to BIDA through online for issuance of E visa recommendation in favor of the desired foreign national. The following documents are usually required for this application:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Copy of permission letter for branch/liaison/representative office or Memorandum of articles of association and certificate of incorporation in case of locally incorporated company.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Board Resolution for employment of foreign nation(s) mentioning Expatriate Name, Nationality &amp;amp; Passport Number.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Photograph of the Expatriate.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Copy of passport of the Expatriate/Investor/Employee (Whole of the used part).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Appointment Letter/transfer order/service contract or agreement for expatriate/investors.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Certificate of all academic qualification &amp;amp; professional experience for the employees.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Paper clipping showing advertisement made for recruitment of local personal prior to appointment of the expatriate(s).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Specific activities of the company.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Statement of manpower showing list of local and expatriate personal employed with designation, salary break up, nationality and date of first appointment. (Latest Copy).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Encashment certificate of inward remittance of minimum US $50,000.00 as initial establishment cost for branch/liaison/representative office and locally incorporated/ joint venture and 100% foreign ownership companies.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Up to date Income tax clearance certificate (Organization).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Attachment of company’s comments as per remarks (if any)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;NB: All documents shall have to be attested by the Chairman/ CEO / Managing director/ Country Manager/ Chief executive of the Company/ firms.&lt;/p&gt;
-
-&lt;h6 id=&quot;third-step-application-for-e-visa-in-the-respective-bangladesh-embassy-or-high-commission&quot;&gt;THIRD STEP: APPLICATION FOR E VISA IN THE RESPECTIVE BANGLADESH EMBASSY OR HIGH COMMISSION&lt;/h6&gt;
-
-&lt;p&gt;Once BIDA issue the E visa recommendation, the foreign national should apply for E visa in the respective Bangladesh Embassy or High Commission. Once the E visa is issued, the foreign national should enter Bangladesh with the E visa.&lt;/p&gt;
-
-&lt;h6 id=&quot;forth-step-application-for-work-permit-in-bangladesh&quot;&gt;FORTH STEP: APPLICATION FOR WORK PERMIT IN BANGLADESH&lt;/h6&gt;
-
-&lt;p&gt;Within 15 days from the date of arrival of the foreign national, application for work permit should be submitted to BIDA. A fee of BDT 5,000 is applicable in this regard.&lt;/p&gt;
-
-&lt;p&gt;The following papers/documents are required for new work permit&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;All documents stated in second step.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Attested photocopy of passport with arrival stamp &lt;strong&gt;E&lt;/strong&gt; type visa for employee.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h6 id=&quot;fifth-step-security-clearance&quot;&gt;FIFTH STEP: SECURITY CLEARANCE&lt;/h6&gt;
-
-&lt;p&gt;Once work permit is issued by BIDA, a copy of the work permit would then sent letter to Ministry of Home Affairs for security clearance by BIDA. After some scrutiny, security clearance will be issued.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 13 Feb 2020 00:00:00 +0600</pubDate>
-        <link>http://localhost:4000/company-law/2020/02/13/process-of-issuing-work-permit-in-bangladesh.html</link>
-        <guid isPermaLink="true">http://localhost:4000/company-law/2020/02/13/process-of-issuing-work-permit-in-bangladesh.html</guid>
-        
-        
-        <category>company-law</category>
-        
-      </item>
-    
-      <item>
-        <title>Process for Registration with Bangladesh Investment Development Authority</title>
-        <description>&lt;p&gt;All Bangladesh industrial enterprise is required to be registered with &lt;a href=&quot;http://bida.gov.bd&quot;&gt;Bangladesh Investment Development Authority (BIDA)&lt;/a&gt;. Without it, investor/ entrepreneur will not be able to obtain many essential licenses and permits such as Import Registration Certificate, Export Registration Certificate, Bond License, etc. BIDA registration is also mandatory for obtaining industrial plot in the special economic zone.&lt;/p&gt;
-
-&lt;h3 id=&quot;process-for-registration-with-bida&quot;&gt;PROCESS FOR REGISTRATION WITH BIDA&lt;/h3&gt;
-
-&lt;p&gt;The investor is required to collect the application form from BIDA and submit the filled up form to the respective department of BIDA. The form is required to be supported by relevant documents. The list of required documents are provided below.&lt;/p&gt;
-
-&lt;h4 id=&quot;for-local-investment-project&quot;&gt;FOR LOCAL INVESTMENT PROJECT&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;A valid Trade License&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Two copies of application in prescribed form duly filled in,&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Two attested copies of deeds of the proposed land (if the land is owned by the entrepreneur, then attach copies of original deed, or copy of loan agreement for rented building)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Two copies of project profile if the cost of project exceeds Taka 5 Crore.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A pay order/bank draft for registration fees, (from any scheduled bank) in favour of &lt;strong&gt;Executive Chairman and Member Secretary, Board of Investment&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h6 id=&quot;for-partnership-firms-two-attested-copies-of-partnership-deed&quot;&gt;For Partnership Firms: Two attested copies of Partnership Deed.&lt;/h6&gt;
-
-&lt;h6 id=&quot;for-publicprivate-limited-company-memorandum-and-articles-of-association-and-certificate-of-incorporation&quot;&gt;For Public/Private Limited Company: Memorandum and Articles of Association and Certificate of Incorporation.&lt;/h6&gt;
-
-&lt;p&gt;And Membership Certificate from local chamber of commerce or trade association (Only for an existing enterprise)&lt;/p&gt;
-
-&lt;h4 id=&quot;for-foreign-investmentjoint-venture-project&quot;&gt;FOR FOREIGN INVESTMENT/JOINT VENTURE PROJECT&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Two copies of application in prescribed form duly filled in.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Certificate of Incorporation along with Memorandum &amp;amp; Articles of Association in case of Public/Private Limited Company.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;In case of Joint Venture Project (JV), two copies of Joint Venture Agreement duly signed in by both the parties.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Two attested copies of deeds of the proposed land (if the land is owned by the entrepreneur, then attach copies of original deed, or copy of loan agreement for rented building).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;If the total project cost exceeds Tk. 50 (fifty) million, two copies of Project Profile.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Background of the Promoters in official letterhead pad describing a) Name, b) Permanent address, c) Mailing Address, d) Position and e) Nationality 07 (seven) copies.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;List of machinery indicating quantity and price (7 (seven) copies)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;In case the project is financed by loan, copy of relevant documents in support of loan 2 (two) copies].&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A pay order/bank draft applicable of registration fee in favour of &lt;strong&gt;Executive Chairman and Member Secretary, Board of Investment&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 12 Feb 2020 00:00:00 +0600</pubDate>
-        <link>http://localhost:4000/company-law/2020/02/12/process-for-registration-with-bangladesh-investment-development-authority.html</link>
-        <guid isPermaLink="true">http://localhost:4000/company-law/2020/02/12/process-for-registration-with-bangladesh-investment-development-authority.html</guid>
-        
-        
-        <category>company-law</category>
-        
-      </item>
-    
-      <item>
-        <title>The Registrar of Joint Stock Companies and Firms (RJSC)</title>
-        <description>&lt;p&gt;The Registrar of Joint Stock Companies and Firms (RJSCF) is the sole authority which facilitates formation of companies etc.; and keeps track of all ownership related issues as prescribed by the laws in Bangladesh. The Registrar is the authority of the Office of the Registrar of Joint Stock Companies and Firms, Bangladesh.&lt;/p&gt;
-
-&lt;p&gt;RJSC deals with the following types of entities:&lt;/p&gt;
-
-&lt;p&gt;a. Private companies&lt;/p&gt;
-
-&lt;p&gt;b. Public companies&lt;/p&gt;
-
-&lt;p&gt;c. Foreign companies&lt;/p&gt;
-
-&lt;p&gt;d. Trade organizations&lt;/p&gt;
-
-&lt;p&gt;e. Societies, and&lt;/p&gt;
-
-&lt;p&gt;f. Partnership firms&lt;/p&gt;
-
-&lt;p&gt;RJSC accords registration and ensures lawful administration of the entities under the provisions of applicable act as under:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Companies and Trade Organizations : Companies Act, 1994 (Amendment of Companies Act 1913&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Societies : Societies Registration Act, 1860&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Partnership Firms : Partnership Act, 1932&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Historical Background :&lt;/p&gt;
-
-&lt;p&gt;After the partition of India, the Office of the Registrar of Joint Stock Companies &amp;amp; Firms under the Ministry of Commerce was first set up in Chittagong, the port and 2nd biggest city of Bangladesh with some files and records of Companies, Associations (Trade Organizations) and partnership firms received from Kolkata, India. The office was transferred to Dhaka, the capital of Bangladesh in 1962. Currently there are around 110,000 entities registered under RJSC.&lt;/p&gt;
-
-&lt;p&gt;ORGANOGRAM AND STAFFING :&lt;/p&gt;
-
-&lt;p&gt;The Registrar is the head of RJSC.&lt;/p&gt;
-
-&lt;p&gt;Next to the Registrar, there is one (1) Deputy Registrar in Dhaka.&lt;/p&gt;
-
-&lt;p&gt;The divisional offices at Chittagong, Khulna and Rajshahi are run under the administrative control of the Registrar with one (1) Assistant Registrar being In-Charge of the respective divisional office. The present RJSC organogram has provision of thirty nine (39) staffs. In near future four (4) more divisional offices will be setup at Sylhet, Barisal, Bogra and Comilla. Manpower will then increase from present 39 to 58, with distribution as 20 in Dhaka, 10 in Chittagong and 4-6 in each office of Rajshahi, Khulna, Sylhet, Barisal, Bogra &amp;amp; Comilla.&lt;/p&gt;
-
-&lt;p&gt;RJSC BUSINESS :&lt;/p&gt;
-
-&lt;p&gt;The business of RJSC is –&lt;/p&gt;
-
-&lt;p&gt;To incorporate Companies (including Trade Organization), Societies and Partnership Firms under the respective Companies Act 1994, Societies Registration Act 1860 and Partnership Act 1932, and&lt;/p&gt;
-
-&lt;p&gt;To administer and enforce the relevant statutory provisions of these acts in relation to the incorporated companies (including Trade Organization), societies and partnership firms.&lt;/p&gt;
-
-&lt;p&gt;RJSC business is split into the following major business processes:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Name Clearance&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Registration&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Returns Filing&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Issuance of certified copies&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Winding up&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Struck Off&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;RJSC OFFICES :&lt;/p&gt;
-
-&lt;p&gt;At present, RJSC has its head office in Dhaka and three (3) divisional offices in the following locations:&lt;/p&gt;
-
-&lt;p&gt;Head Office, Dhaka : TCB Bhaban (6th Floor),1 Kawran Bazar, Dhaka - 1215., Tel: 88028189401, 88 02 8189403, Fax: 88 02 8189402, Email: rjsc@roc.gov.bd&lt;/p&gt;
-
-&lt;p&gt;Divisional Office, Chittagong : CDA Annex building (5th floor), Kotowali, Chittagong. Tel: 88 031636225 Fax: 88 02 8189402, Email: rjsc@roc.gov.bd&lt;/p&gt;
-
-&lt;p&gt;Divisional Office, Khulna : 16, Barada Datta Lane(opp. power house),Khulna. Tel: 88 041 720217 Fax: 88 02 8189402, Email: rjsc@roc.gov.bd&lt;/p&gt;
-
-&lt;p&gt;Divisional Office, Rajshahi : Sadharan Bima Bhaban, (7th floor),Kazihata, G.P.O-6000, Rajshahi. Tel: 88 0721 773396 Fax: 88 02 8189402, Email: rjsc@roc.gov.bd&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 11 Feb 2020 00:00:00 +0600</pubDate>
-        <link>http://localhost:4000/company-law/2020/02/11/the-registrar-of-joint-stock-companies-and-firms.html</link>
-        <guid isPermaLink="true">http://localhost:4000/company-law/2020/02/11/the-registrar-of-joint-stock-companies-and-firms.html</guid>
-        
-        
-        <category>company-law</category>
-        
-      </item>
-    
-      <item>
-        <title>Money Laundering for Income Tax Purposes</title>
-        <description>&lt;p&gt;As the name itself suggests, laundering here refers to converting the dirty /tainted /crime money into clean /untainted / legally earned legitimate money. Money laundering involves certain processes undertaken to conceal the identity or source of illegally gained money.&lt;/p&gt;
-
-&lt;p&gt;The goal of a large number of criminal acts is to generate profits for the individual or a group that carries out the acts. Money laundering is the processing of these criminal proceeds to disguise their illegal origin. Illegal activities, like drug trafficking, smuggling, sale of illegal arms, prostitution, embezzlement, bribery, cyber crimes, insider trading, etc., can produce large profits and create the need to legitimize the ill-gotten gains through money laundering.&lt;/p&gt;
-
-&lt;p&gt;This is done by disguising the source, changing the form, and moving the funds to a place where they are less likely to attract attention. It must be clearly understood that tax evasion is not the prime objective of money laundering. Money laundering is mainly done to disguise the origin of money obtained through illegal activities so as to make it appear as if it was obtained from a legal source.&lt;/p&gt;
-
-&lt;p&gt;Interestingly, in the USA someone possessing a huge amount of cash tried to explain it as having been derived from operating the laundry machines or launderettes installed in buildings. Persons operating these machines have to insert coins to make the machine work. Thus, a large number of coins accumulate in these machines. It is said that the term money laundering was accordingly coined. Convenience stores making retail sales also collect cash; these stores are often used to camouflage the source of inconvenient money.&lt;/p&gt;
-
-&lt;p&gt;Money laundering is a phenomenon prevalent in almost all countries of the world. In 1996, the International Monetary Fund (IMF) estimated that two to five percent of the global economy involved laundered money. Money laundering impacts a nations economy adversely as funds move rapidly across borders to escape the audit trail. Different kinds of methods and legislations have been adopted to deter, prevent and apprehend money launderers. Very severe punishments have been provided for those found to be indulging in this criminal activity.&lt;/p&gt;
-
-&lt;p&gt;The Money Laundering Prevention Act, 2012 also casts an obligation on banking companies, financial institutions and others to both verify and maintain a record of the identity of their clients. Measures have already been undertaken in this direction by way of adoption of the KYC norms by the concerned institutions. Under these norms, any person opening a bank account, or a demat account, subscribing to mutual funds, or taking a mobile phone connection has to establish his identity to the satisfaction of the concerned authorities. He has to furnish proof of identity with a photograph and also proof of residence. Even courier service providers ask for proof of identity before accepting or handing over a parcel. There are strict instructions from the Bangladesh Bank and other regulatory authorities to their subordinate functionaries to enforce the KYC norms strictly. The banks, financial institutions and others have to ensure that the customer is, in fact, the person who he or she claims to be. This is to prevent fraudsters using the name, address and forged signatures of others for doing fraudulent or benami transactions.&lt;/p&gt;
-
-&lt;p&gt;Since income tax evasion is bound to be an integral part of the act of money laundering, such cases may also be referred to the income tax authorities for investigation from the tax evasion angle.&lt;/p&gt;
-
-&lt;p&gt;Money laundering is a grave issue as it is the byproduct of illegal activities and financial frauds, and further abets continuance of such activities and frauds. It needs to be checked and dealt with severely.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 08 Feb 2020 00:00:00 +0600</pubDate>
-        <link>http://localhost:4000/company-law/income-tax/2020/02/08/money-laundering-for-income-tax-purposes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/company-law/income-tax/2020/02/08/money-laundering-for-income-tax-purposes.html</guid>
-        
-        
-        <category>company-law</category>
-        
-        <category>income-tax</category>
-        
-      </item>
-    
+    <title>Hassan and Associates</title>
+    <link>https://blog.hassanandassociates.biz</link>
+    <description />
+    <item>
+      <guid>https://blog.hassanandassociates.biz/</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/page3/</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/page3/</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/company-law/2020/02/12/process-for-registration-with-bangladesh-investment-development-authority.html</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/company-law/2020/02/12/process-for-registration-with-bangladesh-investment-development-authority.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/company-law/2020/02/20/trademark-registration-in-bangladesh.html</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/company-law/2020/02/20/trademark-registration-in-bangladesh.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/page2/</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/page2/</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/company-law/income-tax/2020/02/19/required-documents-to-open-foreign-company-in-Bangladesh.html</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/company-law/income-tax/2020/02/19/required-documents-to-open-foreign-company-in-Bangladesh.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/income-tax/2020/02/27/black-money-for-income-tax-purpose-in-bangladesh.html</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/income-tax/2020/02/27/black-money-for-income-tax-purpose-in-bangladesh.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/company-law/2020/02/13/process-of-issuing-work-permit-in-bangladesh.html</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/company-law/2020/02/13/process-of-issuing-work-permit-in-bangladesh.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/company-law/income-tax/2020/02/22/policy-support-to-corporate-social-responsibilty.html</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/company-law/income-tax/2020/02/22/policy-support-to-corporate-social-responsibilty.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/contact</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/contact</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/income-tax/2020/02/21/key-information-on-income-tax.html</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/income-tax/2020/02/21/key-information-on-income-tax.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/about</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/about</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/company-law/income-tax/2020/02/29/what-is-arbitration.html</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/company-law/income-tax/2020/02/29/what-is-arbitration.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/company-law/income-tax/2020/01/26/tax-deduction-and-collections-at-source.html</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/company-law/income-tax/2020/01/26/tax-deduction-and-collections-at-source.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/company-law/2020/02/11/the-registrar-of-joint-stock-companies-and-firms.html</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/company-law/2020/02/11/the-registrar-of-joint-stock-companies-and-firms.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/income-tax/2020/01/16/historical-income-tax-background-of-india-sub-continent.html</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/income-tax/2020/01/16/historical-income-tax-background-of-india-sub-continent.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/index.html</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/index.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/income-tax/2020/01/19/income-tax-authorities-and-tax-rate.html</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/income-tax/2020/01/19/income-tax-authorities-and-tax-rate.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/company-law/2020/01/23/study-on-working-hours-leave-and-holidays-maternity-benefit-in-bangladesh.html</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/company-law/2020/01/23/study-on-working-hours-leave-and-holidays-maternity-benefit-in-bangladesh.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/company-law/income-tax/2020/01/20/recommendation-for-nbr-bangladesh.html</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/company-law/income-tax/2020/01/20/recommendation-for-nbr-bangladesh.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/company-law/income-tax/2020/02/01/bangladesh-tax-policy-and-administration.html</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/company-law/income-tax/2020/02/01/bangladesh-tax-policy-and-administration.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/company-law/income-tax/2020/02/05/license-approval-permit-and-certificate.html</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/company-law/income-tax/2020/02/05/license-approval-permit-and-certificate.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/income-tax/2020/02/02/value-added-tax-vat.html</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/income-tax/2020/02/02/value-added-tax-vat.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/company-law/2020/02/03/what-is-customs.html</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/company-law/2020/02/03/what-is-customs.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/company-law/income-tax/2020/02/07/tax-incentives-and-exemptions.html</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/company-law/income-tax/2020/02/07/tax-incentives-and-exemptions.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://blog.hassanandassociates.biz/company-law/income-tax/2020/02/08/money-laundering-for-income-tax-purposes.html</guid>
+      <title>Hassan and Associates</title>
+      <link>https://blog.hassanandassociates.biz/company-law/income-tax/2020/02/08/money-laundering-for-income-tax-purposes.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2020 01:49:00 Z</pubDate>
+    </item>
   </channel>
 </rss>
