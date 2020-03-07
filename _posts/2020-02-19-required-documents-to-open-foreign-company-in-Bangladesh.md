@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Required Documens to Open a Foriegn Company Branch in Bangladesh"
+title:  "Required Documens to Open a Foriegn Company Branch"
 author: SHA
 categories: [ company-law, income-tax ]
 image: "/assets/images/03.jpg"
