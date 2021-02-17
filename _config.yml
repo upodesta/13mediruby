@@ -3,7 +3,7 @@ name: "Hassan and Associates"
 description: "A Blog site for income tax, company law and business services"
 meta_description: " A Blog site for income tax, company law and business services."
 logo: 'assets/images/001.png'
-favicon: 'https://blog.hassanandassociates.biz/assets/images/logo.png'
+favicon: 'https://blog.hassan.com.bd/assets/images/logo.png'
 baseurl: 
 google_analytics: 'UA-66934702-20'
 disqus: 'hassanandassociates'
