@@ -13,23 +13,4 @@ comments: true
 Got an issue? Want to consult or work with us? Drop us a line. 
 We offer a free consultation, all you need to do is ask :)
 
-<div id="wufoo-x1ma70je0l0k0ru">
-<a href="https://upodesta.wufoo.com/forms/x1ma70je0l0k0ru"></a>.
-</div>
-<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;"><a href="http://www.wufoo.com/features/"></a> </div>
-<script type="text/javascript">var x1ma70je0l0k0ru;(function(d, t) {
-var s = d.createElement(t), options = {
-'userName':'upodesta',
-'formHash':'x1ma70je0l0k0ru',
-'autoResize':true,
-'height':'440',
-'async':true,
-'host':'wufoo.com',
-'header':'hide',
-'ssl':true};
-s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
-s.onload = s.onreadystatechange = function() {
-var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-try { x1ma70je0l0k0ru = new WufooForm();x1ma70je0l0k0ru.initialize(options);x1ma70je0l0k0ru.display(); } catch (e) {}};
-var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-})(document, 'script');</script>
+<iframe src="https://hassan.com.bd/contact/" width="100%" height="350" scrolling="auto" title="contact" style="border:0" allowfullscreen ></iframe>
