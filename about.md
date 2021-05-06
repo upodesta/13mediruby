@@ -13,7 +13,7 @@ We provide services for individual and company income tax, company registration,
 
 Here are the points where you can get in touch or find us @
 
-- [Official Site](https://blog.hassan.com.bd)
+- [Official Site](https://hassan.com.bd)
 
 - [Blog 'Notes' Site](https://notes.hassan.com.bd)
 
