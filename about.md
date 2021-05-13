@@ -9,6 +9,7 @@ We provide services for individual and company income tax, company registration,
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/0cKd0fOGh10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
 ### More About us
 
 Here are the points where you can get in touch or find us @
@@ -28,3 +29,8 @@ Here are the points where you can get in touch or find us @
 - [Internal Site](https://sites.google.com/site/taxadvisorbd)
 
 - [Portfolio Site](https://taxadvisor.com.bd)
+
+
+### Contact us
+
+Hassan & Associates <br> 154/4, West Rampura <br> WAPDA Road, Dhaka <br> Bangladesh  
