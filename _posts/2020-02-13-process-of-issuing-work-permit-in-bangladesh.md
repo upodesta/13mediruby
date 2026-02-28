@@ -3,7 +3,7 @@ layout: post
 title:  "Process of Issuing Work Permit in Bangladesh"
 author: SHA
 categories: [ company-law ]
-image: "/assets/images/34.jpg"
+image: "https://blog.hassan.bd/assets/images/34.jpg"
 ---
 Work permit is mandatory for every foreign national seeking employment in Bangladesh. Three government authorities issue work permit in Bangladesh.
 
