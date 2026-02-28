@@ -3,7 +3,7 @@ layout: post
 title:  "What is Arbitration"
 author: SHA
 categories: [ company-law, income-tax ]
-image: "/assets/images/12.jpg"
+image: "https://blog.hassan.bd/assets/images/12.jpg"
 featured: true
 hidden: true
 ---
