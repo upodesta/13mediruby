@@ -3,7 +3,7 @@ layout: post
 title:  "Political and Legal System of Bangladesh"
 author: SHA
 categories: [ company-law, income-tax]
-image: "/assets/images/17.jpg"
+image: "https://blog.hassan.bd/assets/images/17.jpg"
 ---
 
 Bangladesh is a constitutional republic with a multi-party parliamentary democracy. Elections
