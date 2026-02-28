@@ -3,7 +3,7 @@ layout: post
 title:  "What is Customs"
 author: SHA
 categories: [ company-law ]
-image: "/assets/images/46.jpg"
+image: "https://blog.hassan.bd/assets/images/46.jpg"
 ---
 
 In Bangladesh, Customs wing is primarily responsible for collection of all duties and taxes at the import stage. Apart from collection of government revenue it is also responsible for trade facilitation, enforcement of government regulations, protection of society and environmental protection, preparation of foreign trade statistics, trade compliance and protection of cultural heritage
