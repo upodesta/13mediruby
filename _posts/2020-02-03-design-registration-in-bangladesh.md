@@ -3,7 +3,7 @@ layout: post
 title:  "Design Registration in Bangladesh"
 author: SHA
 categories: [ company-law ]
-image: "/assets/images/16.jpg"
+image: "https://blog.hassan.bd/assets/images/16.jpg"
 ---
 
 In a legal sense, an industrial design constitutes the ornamental or aesthetic aspect of an article or product. An industrial design may consist of three-dimensional features, such as the shape of an article, or two-dimensional features, such as patterns, lines or colour.
