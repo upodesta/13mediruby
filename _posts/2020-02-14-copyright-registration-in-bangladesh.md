@@ -3,7 +3,7 @@ layout: post
 title:  "Copyright Registration in Bangladesh"
 author: SHA
 categories: [ company-law ]
-image: "/assets/images/13.jpg"
+image: "https://blog.hassan.bd/assets/images/13.jpg"
 ---
 
 Copyright is the exclusive right given to the creator of a creative work to reproduce the work, usually for a limited time. The creative work may be in a literary, artistic, educational, or musical form. Copyright is intended to protect the original expression of an idea in the form of a creative work, but not the idea itself. Under copyright law, a work is considered original if the author created it from independent thinking void of duplication. This type of work is known as Original Work of Authorship (OWA). Anyone with an original work of authorship automatically has the copyright to that work, preventing anyone else from using or replicating it. The copyright can be registered voluntarily by the original owner if he or she would like to get an upper hand in the legal system if the need arises. In Bangladesh, Copyright Office is responsible maintaining the register of copyrighted works. Any application for registration, transfer, abandonment, modification of register should be made to the Registrar.
