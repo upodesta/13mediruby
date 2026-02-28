@@ -3,7 +3,7 @@ layout: post
 title:  "Patent Registration in Bangladesh"
 author: SHA
 categories: [ company-law ]
-image: "/assets/images/15.jpg"
+image: "https://blog.hassan.bd/assets/images/15.jpg"
 ---
 
 An application for a patent may be made by any Bangladeshi or any foreigner, and by alone or jointly with any other person. The application must be made to the [Department of Patents, Designs and Trade Marks (DPDT)](http://www.dpdt.gov.bd) in the prescribed form. The application must contain a declaration that the applicant is in possession of an invention, whereof he, or in the case of a joint application one at least of the applicants, claims to be the true and first inventor or the legal representative or assign of such inventor and for which he desires to obtain a patent, and must be accompanied by complete specification.
