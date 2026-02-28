@@ -3,7 +3,7 @@ layout: post
 title:  "Key Concept of the Company Law"
 author: SHA
 categories: [ company-law ]
-image: "/assets/images/18.jpg"
+image: "https://blog.hassan.bd/assets/images/18.jpg"
 ---
 
 - **Company**: According to Sec. 2 (1) (c) the Companies Act, 1994-“Company means a company formed and registered under this Act or an existing company”. Thus, a company is an association of persons formed under the Companies Act, 1994 with a view to achieving some common objectives. Though a company is regarded a legal person, it possesses similar rights and owes similar obligations like a natural person.
