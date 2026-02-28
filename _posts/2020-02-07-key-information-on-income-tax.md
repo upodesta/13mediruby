@@ -3,7 +3,7 @@ layout: post
 title:  "Key Information on Income Tax"
 author: SHA
 categories: [ income-tax ]
-image: "/assets/images/38.jpg"
+image: "https://blog.hassan.bd/assets/images/38.jpg"
 ---
 
 Among direct taxes, income tax is the main source of revenue. It is a progressive tax system. Income tax is imposed on the basis of ability to pay. "The more a taxpayer earns the more he should pay''- is the basic principle of charging income tax. It aims at ensuring equity and social justice. In Bangladesh income tax is being  administered  under  the  tax  legislations  named  as  “THE  INCOME  TAX  ORDINANCE,  1984 (XXXVI OF 1984) and INCOME TAX RULES, 1984.”
