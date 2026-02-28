@@ -3,7 +3,7 @@ layout: post
 title:  "Process for Registration with Bangladesh Investment Development Authority"
 author: SHA
 categories: [ company-law ]
-image: "/assets/images/33.jpg"
+image: "https://blog.hassan.bd/assets/images/33.jpg"
 ---
 
 All Bangladesh industrial enterprise is required to be registered with [Bangladesh Investment Development Authority (BIDA)](http://bida.gov.bd). Without it, investor/ entrepreneur will not be able to obtain many essential licenses and permits such as Import Registration Certificate, Export Registration Certificate, Bond License, etc. BIDA registration is also mandatory for obtaining industrial plot in the special economic zone.
