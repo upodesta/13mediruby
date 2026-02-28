@@ -3,7 +3,7 @@ layout: post
 title:  "Value Added Tax - VAT"
 author: SHA
 categories: [ income-tax ]
-image: "/assets/images/44.jpg"
+image: "https://blog.hassan.bd/assets/images/44.jpg"
 ---
 
 VAT is imposed on goods and services at import stage, manufacturing, wholesale and retails levels;- A uniform VAT rate of 15 percent is applicable for both goods and services;
