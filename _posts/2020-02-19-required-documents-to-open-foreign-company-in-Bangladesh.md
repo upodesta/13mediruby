@@ -3,7 +3,7 @@ layout: post
 title:  "Required Documens to Open a Foriegn Company Branch"
 author: SHA
 categories: [ company-law, income-tax ]
-image: "/assets/images/03.jpg"
+image: "https://blog.hassan.bd/assets/images/03.jpg"
 ---
 Following documents are required for application of opening a foreign company Branch/Liaison/Representative office in Bangladesh
 
