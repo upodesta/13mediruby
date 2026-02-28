@@ -3,7 +3,7 @@ layout: post
 title:  "Why Invest in Bangladesh"
 author: SHA
 categories: [ company-law, income-tax ]
-image: "/assets/images/04.jpg"
+image: "https://blog.hassan.bd/assets/images/04.jpg"
 featured: true
 hidden: true
 ---
