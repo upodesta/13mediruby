@@ -3,7 +3,7 @@ layout: post
 title:  "Tax Deduction and Collection at Source"
 author: SHA
 categories: [ company-law, income-tax ]
-image: "/assets/images/42.jpg"
+image: "https://blog.hassan.bd/assets/images/42.jpg"
 ---
 
 In Bangladesh withholding taxes are usually termed as Tax deduction and collection at source. Under this system both private and public limited companies or any other organization specified by law are legally authorized and bound to withhold taxes at some point of making payment and deposit the same to the Government Exchequer. The taxpayer receives a certificate from the withholding authority and gets credits of tax against assessed tax on the basis of such certificate.
