@@ -1,25 +1,21 @@
 source "https://rubygems.org"
-ruby RUBY_VERSION
+ruby "3.2.10"
 
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
+# Jekyll core
+gem 'jekyll', '~> 4.3'
 
-# If you have any plugins, put them here!
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+# Jekyll plugins
 group :jekyll_plugins do
-    gem 'jekyll-feed'
-    gem 'jekyll-sitemap'
-    gem 'jekyll-archives'
-    gem 'jekyll-paginate'
-	gem 'github-pages'
+  gem 'jekyll-feed', '~> 0.17'
+  gem 'jekyll-sitemap', '~> 1.4'
+  gem 'jekyll-archives', '~> 2.2'
+  gem 'jekyll-paginate', '~> 1.1'
+  gem 'jekyll-seo-tag', '~> 2.8'
 end
 
-gem 'rails'
+# Optional: Windows support
+gem 'wdm', '~> 0.2', platforms: :windows
 
-gem "rspec", "~> 3.8"
-
-gem "rake", "~> 13.0"
+# Development/Testing gems
+gem 'rspec', '~> 3.13'
+gem 'rake', '~> 13.1'
