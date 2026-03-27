@@ -3,7 +3,7 @@ layout: post
 title:  "Policy Support to Corporate Social Responsibilty"
 author: SHA
 categories: [ company-law, income-tax ]
-image: "https://blog.hassan.bd/assets/images/19.jpg"
+image: "/assets/images/19.jpg"
 
 ---
 
